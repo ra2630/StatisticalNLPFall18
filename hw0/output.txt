@@ -1,5 +1,5 @@
 name:
-   first: Anhad
-   last: Mohananey
-email: anhad@nyu.edu
-leaderboard: anhad13
+   first: Rajat
+   last: Agarwal
+email: Rajat.Agarwal@nyu.edu
+leaderboard: Rajat
