@@ -2750,7 +2750,6 @@ Example: Fertinex guess=drug gold=unk confidence=0.9982385771359391
 Example: Rogaine guess=drug gold=unk confidence=0.7243672208136762
 Example: Bancap-HC guess=drug gold=unk confidence=0.9827399696511513
 Example: Rosamunde Pilcher - Die Rose von Kerrymore guess=movie gold=unk confidence=0.9414597357486201
-Accuracy: 0.0
 Example: BKF Capital Group, Inc. guess=company gold=unk confidence=0.9999999994872518
 Example: Johnny Bench guess=person gold=unk confidence=0.9974346341048942
 Example: Mylanta Sugar Free Natural Fiber Supplement guess=drug gold=unk confidence=0.9998603887410584
