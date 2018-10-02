@@ -2317,6 +2317,7 @@ Example: BIAVAX II guess=drug gold=unk confidence=0.5411252011524701
 Example: Ulobetasol guess=drug gold=unk confidence=0.9973534548061406
 Example: Henry Baker guess=person gold=unk confidence=0.9984142621804892
 Example: Ouvri�res du monde guess=movie gold=unk confidence=0.9876633152855282
+Finished !!
 Example: Polycitra Syrup guess=drug gold=unk confidence=0.9560302343129476
 Example: Selsun Blue Extra Conditioning Formula guess=drug gold=unk confidence=0.9635939010260384
 Example: Waltham Cross guess=place gold=unk confidence=0.9059565275817612
@@ -2534,7 +2535,6 @@ Example: Torab al-ghoraba guess=drug gold=unk confidence=0.5403958416533131
 Example: Dickinson W. Richards guess=person gold=unk confidence=0.997085654118594
 Example: Telachlor guess=drug gold=unk confidence=0.9134746591692553
 Example: Gauntlet Legends guess=movie gold=unk confidence=0.8543532552008083
-Finished !!
 Example: Dakhtaran-e Khorshid guess=person gold=unk confidence=0.5465829783744003
 Example: Churchdown guess=place gold=unk confidence=0.9640597562736521
 Example: Honorius I guess=person gold=unk confidence=0.9885583708164628
