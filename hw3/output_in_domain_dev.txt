@@ -451,7 +451,7 @@ other	JJ
 debt	NN
 ,	,
 and	CC
-subtracting	NN
+subtracting	VBG
 from	IN
 it	PRP
 the	DT
@@ -504,7 +504,7 @@ Oversight	NNP
 Board	NNP
 has	VBZ
 been	VBN
-remiss	JJ
+remiss	NNS
 in	IN
 not	RB
 keeping	VBG
@@ -2586,7 +2586,7 @@ relative	JJ
 calm	NN
 .	.
 
-Partisans	NNPS
+Partisans	NNS
 of	IN
 the	DT
 two	CD
@@ -7312,7 +7312,7 @@ price	NN
 unless	IN
 the	DT
 market	NN
-recovers	VBZ
+recovers	NNS
 quickly	RB
 .	.
 
@@ -8175,7 +8175,7 @@ second	JJ
 quarter	NN
 .	.
 
-Nonperformers	NNP
+Nonperformers	NNS
 totaled	VBD
 $	$
 230.8	CD
@@ -13496,7 +13496,7 @@ market	NN
 .	.
 
 Chicken	NNP
-Chains	NNP
+Chains	NNS
 Ruffled	VBN
 By	IN
 Loss	NN
@@ -13921,7 +13921,7 @@ Try	VBP
 Soft	NNP
 -	HYPH
 Sell	VB
-Spots	NNP
+Spots	NNS
 
 CALL	NNP
 IT	PRP
@@ -14036,11 +14036,11 @@ as	IN
 ``	``
 Floodlights	NNS
 :	:
-Evening	NN
+Evening	VBG
 Wear	VB
 for	IN
 Urban	NNP
-Structures	NNP
+Structures	NNS
 ''	''
 and	CC
 ``	``
@@ -14165,7 +14165,7 @@ recognition	NN
 
 Retailer	NNP
 Sees	NNP
-Pitfalls	NNP
+Pitfalls	NNS
 In	IN
 Environmental	NNP
 Push	VBP
@@ -14530,7 +14530,7 @@ James	NNP
 Garner	NNP
 second	NN
 in	IN
-persuasiveness	NN
+persuasiveness	NNS
 as	IN
 spokesmen	NNS
 in	IN
@@ -14801,7 +14801,7 @@ time	NN
 buyers	NNS
 ,	,
 increased	JJ
-homelessness	NN
+homelessness	NNS
 ,	,
 and	CC
 lower	JJR
@@ -15451,7 +15451,7 @@ It	PRP
 points	VBZ
 to	IN
 the	DT
-pernicious	JJ
+pernicious	NNS
 impact	NN
 of	IN
 local	JJ
@@ -15759,7 +15759,7 @@ And	CC
 Bills	NNS
 to	TO
 Make	VB
-Wishes	NNP
+Wishes	NNS
 Come	VBN
 True	JJ
 ''	''
@@ -16194,7 +16194,7 @@ prices	NNS
 signalling	VBG
 Federal	NNP
 Reserve	NNP
-tightness	NN
+tightness	NNS
 ;	:
 and	CC
 the	DT
@@ -18181,7 +18181,7 @@ falling	VBG
 and	CC
 Singapore	NNP
 's	POS
-Straits	NNP
+Straits	NNS
 Times	NNP
 Industrial	NNP
 Index	NNP
@@ -18443,7 +18443,7 @@ Monday	NNP
 decline	NN
 ,	,
 the	DT
-Straits	NNP
+Straits	NNS
 Times	NNP
 index	NN
 is	VBZ
@@ -18607,7 +18607,7 @@ Australia	NNP
 Sydney	NNP
 's	POS
 All	DT
-Ordinaries	NN
+Ordinaries	NNS
 index	NN
 closed	VBD
 at	IN
@@ -20040,7 +20040,7 @@ the	DT
 crash	NN
 .	.
 
-Transports	NNP
+Transports	NNS
 plunged	VBD
 on	IN
 takeover	NN
@@ -20144,7 +20144,7 @@ concerned	JJ
 about	IN
 the	DT
 general	JJ
-narrowness	NN
+narrowness	NNS
 of	IN
 the	DT
 rally	NN
@@ -20177,7 +20177,7 @@ anyone	NN
 left	VBD
 the	DT
 place	NN
-whistling	NN
+whistling	VBG
 Dixie	NNP
 .	.
 ''	''
@@ -22340,7 +22340,7 @@ domestic	JJ
 for	IN
 bringing	VBG
 this	DT
-mischievous	JJ
+mischievous	NNS
 case	NN
 .	.
 
@@ -28181,7 +28181,7 @@ says	VBZ
 Donald	NNP
 Franz	NNP
 of	IN
-Photofinishing	NNP
+Photofinishing	VBG
 Newsletter	NNP
 .	.
 
@@ -29267,7 +29267,7 @@ Alfred	NNP
 DeBat	NNP
 of	IN
 Professional	NNP
-Photographers	NNP
+Photographers	NNS
 of	IN
 America	NNP
 .	.
@@ -33211,7 +33211,7 @@ include	VB
 businesses	NNS
 such	JJ
 as	IN
-McVities	NNP
+McVities	NNS
 biscuits	NNS
 and	CC
 Terry	NNP
@@ -33828,7 +33828,7 @@ make	VBP
 certain	JJ
 that	IN
 Mr.	NNP
-O'Linn's	NNP
+O'Linn's	NNS
 commission	NN
 investigates	VBZ
 election	NN
@@ -34763,7 +34763,7 @@ problem	NN
 that	WDT
 had	VBD
 been	VBN
-underpinning	JJ
+underpinning	VBG
 prices	NNS
 appeared	VBD
 to	TO
@@ -38356,7 +38356,7 @@ Still	RB
 amid	IN
 all	PDT
 the	DT
-backslapping	NN
+backslapping	VBG
 and	CC
 signs	NNS
 of	IN
@@ -40456,7 +40456,7 @@ treating	VBG
 diabetes	NN
 .	.
 
-Delegates	NNP
+Delegates	NNS
 from	IN
 91	CD
 nations	NNS
