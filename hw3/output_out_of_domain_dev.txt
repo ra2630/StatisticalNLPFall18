@@ -1496,7 +1496,7 @@ the	DT
 facts	NNS
 .	.
 
----------	:
+---------	NNP
 
 Bush	NNP
 's	POS
@@ -1933,8 +1933,8 @@ deserted	VBN
 '	''
 (	(
 according	VBG
-to	TO
-anti-Bush	VB
+to	IN
+anti-Bush	JJ
 filmmaker	NN
 Michael	NNP
 Moore	NNP
@@ -3169,7 +3169,7 @@ Board	NNP
 of	IN
 a	DT
 large	JJ
-multi-national	JJ
+multi-national	NN
 corporation	NN
 ,	,
 April	NNP
@@ -6618,7 +6618,7 @@ outer	JJ
 circle	NN
 .	.
 
-Figuratively	RB
+Figuratively	WRB
 speaking	NN
 ,	,
 this	DT
@@ -7766,7 +7766,7 @@ women	NNS
 more	JJR
 education	NN
 ,	,
-counter-propaganda	NN
+counter-propaganda	NNP
 ,	,
 boycott	NN
 whenever	WRB
@@ -7990,7 +7990,7 @@ destruction	NN
 or	CC
 any	DT
 other	JJ
-pre-war	JJ
+pre-war	NN
 argument	NN
 ,	,
 but	CC
@@ -9854,7 +9854,7 @@ fallout	NN
 growing	VBG
 anti-Americanism	NN
 and	CC
-anti-army	NN
+anti-army	JJ
 feeling	NN
 in	IN
 the	DT
@@ -10620,7 +10620,7 @@ program	NN
 and	CC
 calls	NNS
 by	IN
-neo-conservatives	NNS
+neo-conservatives	NN
 in	IN
 Washington	NNP
 that	IN
@@ -13596,7 +13596,7 @@ assassination	NN
 attempt	NN
 on	IN
 the	DT
-pro-India	NN
+pro-India	JJ
 political	JJ
 leader	NN
 and	CC
@@ -14485,7 +14485,7 @@ assassination	NN
 attempt	NN
 on	IN
 the	DT
-pro-India	NN
+pro-India	JJ
 political	JJ
 leader	NN
 and	CC
@@ -15447,8 +15447,8 @@ Nicobar	NNP
 Islands	NNP
 is	VBZ
 forbidden	VBN
-to	IN
-non-Indians	NNS
+to	TO
+non-Indians	NN
 ,	,
 and	CC
 they	PRP
@@ -18473,7 +18473,7 @@ had	VBD
 been	VBN
 granted	VBN
 "	IN
-pre-arrest	NN
+pre-arrest	JJ
 bail	NN
 .	.
 "	</S>
@@ -20377,7 +20377,7 @@ Quetta	NNP
 ,	,
 Pakistan	NNP
 in	IN
-mid-February	NN
+mid-February	NNP
 2003	CD
 .	.
 
@@ -21944,7 +21944,7 @@ Over	IN
 three	CD
 years	NNS
 after	IN
-9-11	CD
+9-11	NN
 ,	,
 the	DT
 United	NNP
@@ -22335,7 +22335,7 @@ in	IN
 connection	NN
 with	IN
 the	DT
-anti-proliferation	NN
+anti-proliferation	JJ
 treaty	NN
 .	.
 
@@ -24718,7 +24718,7 @@ against	IN
 Saddam	NNP
 in	IN
 the	DT
-mid-nineties	NNS
+mid-nineties	NN
 following	VBG
 the	DT
 execution	NN
@@ -24904,7 +24904,7 @@ public	JJ
 at	IN
 such	PDT
 a	DT
-ridiculously	RB
+ridiculously	RBS
 high	JJ
 price	NN
 that	WDT

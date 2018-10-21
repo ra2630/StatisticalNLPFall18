@@ -2248,12 +2248,12 @@ A	NN
 -	HYPH
 men	NNS
 batting	NN
-Nos.	NNP
+Nos.	CD
 6	CD
 through	IN
 9	CD
 ,	,
-a.k.a.	IN
+a.k.a.	CD
 the	DT
 ``	``
 bottom	NN
@@ -7929,7 +7929,7 @@ also	RB
 remain	VB
 classified	VBN
 as	IN
-non-accruing	VBG
+non-accruing	NN
 ,	,
 costing	VBG
 the	DT
@@ -8623,7 +8623,7 @@ yielding	VBG
 assets	NNS
 such	PDT
 as	IN
-inter-bank	NN
+inter-bank	JJ
 loans	NNS
 ,	,
 which	WDT
@@ -11444,7 +11444,7 @@ exchanges	NNS
 followed	VBD
 their	PRP$
 own	JJ
-pre-set	NN
+pre-set	JJ
 circuit	NN
 breakers	NNS
 and	CC
@@ -15002,7 +15002,7 @@ and	CC
 has	VBZ
 regularly	RB
 advanced	JJ
-anti-recession	NN
+anti-recession	JJ
 housing	NN
 measures	NNS
 .	.
@@ -19559,7 +19559,7 @@ passed	VBN
 the	DT
 Prop.	NNP
 65	CD
-anti-toxic	JJ
+anti-toxic	NN
 initiative	NN
 .	.
 
@@ -19665,9 +19665,9 @@ almost	RB
 any	DT
 collection	NN
 of	IN
-anti-scientific	JJ
+anti-scientific	NN
 ,	,
-anti-pocketbook	NN
+anti-pocketbook	JJ
 nonsense	NN
 can	MD
 pass	VB
@@ -20194,7 +20194,7 @@ now	RB
 ,	,
 to	IN
 the	DT
-pre-trading	NN
+pre-trading	JJ
 declaration	NN
 of	IN
 Big	NNP
@@ -22243,7 +22243,7 @@ Jupiter	NNP
 .	.
 
 The	DT
-anti-defense	JJ
+anti-defense	NNP
 Greens	NNP
 wanted	VBD
 a	DT
@@ -27503,7 +27503,7 @@ revised	JJ
 numbers	NNS
 both	CC
 include	VBP
-over-allotment	NN
+over-allotment	JJ
 provisions	NNS
 .	.
 
@@ -40315,7 +40315,7 @@ Wallach	NNP
 an	DT
 associate	NN
 of	IN
-ex-Attorney	NN
+ex-Attorney	NNP
 General	NNP
 Meese	NNP
 ,	,
@@ -40779,7 +40779,7 @@ a	DT
 three	CD
 -	HYPH
 party	NN
-non-Socialist	JJ
+non-Socialist	NN
 government	NN
 as	IN
 Gro	NNPS
@@ -42135,7 +42135,7 @@ slower	JJR
 earnings	NNS
 growth	NN
 of	IN
-non-Manpower	NN
+non-Manpower	JJ
 units	NNS
 in	IN
 Britain	NNP
