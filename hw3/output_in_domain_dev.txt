@@ -1,4 +1,4 @@
-Influential	NNP
+Influential	JJ
 members	NNS
 of	IN
 the	DT
@@ -1350,7 +1350,7 @@ This	DT
 is	VBZ
 n't	RB
 1987	CD
-revisited	VBD
+revisited	VBN
 .	.
 ''	''
 
@@ -2804,7 +2804,7 @@ fans	NNS
 and	CC
 only	RB
 the	DT
-suicidal	NN
+suicidal	JJ
 would	MD
 bifurcate	VB
 their	PRP$
@@ -4390,7 +4390,7 @@ are	VBP
 getting	VBG
 pretty	RB
 well	RB
-pasted	VBD
+pasted	VBN
 this	DT
 morning	NN
 ,	,
@@ -11742,7 +11742,7 @@ or	CC
 none	NN
 .	.
 
-Synchronized	JJ
+Synchronized	VBN
 circuit	NN
 breakers	NNS
 would	MD
@@ -12351,7 +12351,7 @@ team	NN
 The	DT
 players	NNS
 were	VBD
-heckled	JJ
+heckled	VBN
 by	IN
 a	DT
 patron	NN
@@ -12760,9 +12760,9 @@ months	NNS
 painted	JJ
 walls	NNS
 ,	,
-polished	JJ
+polished	VBN
 and	CC
-carpeted	JJ
+carpeted	VBN
 floors	NNS
 ,	,
 bought	VBD
@@ -13006,8 +13006,8 @@ many	JJ
 real	JJ
 -	HYPH
 estate	NN
-values	NNS
-depreciated	VBD
+values	VBZ
+depreciated	VBN
 ,	,
 the	DT
 council	NN
@@ -13497,7 +13497,7 @@ market	NN
 
 Chicken	NNP
 Chains	NNP
-Ruffled	NNP
+Ruffled	VBN
 By	IN
 Loss	NN
 of	IN
@@ -14786,7 +14786,7 @@ the	DT
 U.S.	NNP
 faces	VBZ
 a	DT
-multifaceted	JJ
+multifaceted	VBN
 housing	NN
 crisis	NN
 --	:
@@ -16057,7 +16057,7 @@ Friday	NNP
 
 The	DT
 grand	JJ
-marshal	NN
+marshal	JJ
 of	IN
 this	DT
 parade	NN
@@ -16311,7 +16311,7 @@ deal	NN
 ''	''
 stocks	NNS
 are	VBP
-jeopardized	JJ
+jeopardized	VBN
 by	IN
 the	DT
 unexpected	JJ
@@ -28403,7 +28403,7 @@ exotic	JJ
 It	PRP
 has	VBZ
 an	DT
-archival	NN
+archival	JJ
 ,	,
 almost	RB
 nostalgic	JJ
@@ -34382,7 +34382,7 @@ analyst	NN
 Peter	NNP
 Cardillo	NNP
 of	IN
-Josephthal	NNP
+Josephthal	JJ
 &	CC
 Co.	NNP
 ,	,
@@ -37715,7 +37715,7 @@ he	PRP
 smiled	VBD
 broadly	RB
 ,	,
-brandished	VBD
+brandished	VBN
 his	PRP$
 unlit	NN
 cigar	NN
@@ -39578,7 +39578,7 @@ about	RB
 minutes	NNS
 and	CC
 then	RB
-steamed	VBD
+steamed	VBN
 forward	RP
 as	IN
 institutions	NNS
@@ -41718,7 +41718,7 @@ Manpower	NNP
 
 Mr.	NNP
 Fromstein	NNP
-solidified	VBD
+solidified	VBN
 his	PRP$
 control	NN
 in	IN

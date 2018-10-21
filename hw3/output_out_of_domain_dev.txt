@@ -496,7 +496,7 @@ Hussain	NNP
 London	NNP
 E14	.
 
-Muhammed	NNP
+Muhammed	VBN
 Usman	NNP
 Saddique	NNP
 ,	,
@@ -685,7 +685,7 @@ Amara	NNP
 ,	,
 Mississauga	NNP
 ,	,
-Ont.	NNP
+Ont.	CD
 ;	:
 
 Asad	NNP
@@ -713,14 +713,14 @@ Jamal	NNP
 Mississauga	NNP
 ;	:
 
-Mohammed	NNP
+Mohammed	VBN
 Dirie	NNP
 ,	,
 22	CD
 ,	,
 Kingston	NNP
 ,	,
-Ont.	NNP
+Ont.	CD
 ;	:
 
 Yasim	NNP
@@ -732,7 +732,7 @@ Mohamed	NNP
 Kingston	NNP
 ;	:
 
-Jahmaal	NNP
+Jahmaal	JJ
 James	NNP
 ,	,
 23	CD
@@ -1245,7 +1245,7 @@ libeled	VBN
 George	NNP
 Bush	NNP
 and	CC
-impugned	VBD
+impugned	VBN
 his	PRP$
 service	NN
 in	IN
@@ -2868,7 +2868,7 @@ Rumsfeld	NNP
 charging	VBG
 that	IN
 they	PRP
-mismanaged	VBD
+mismanaged	VBN
 the	DT
 evacuation	NN
 efforts	NNS
@@ -6079,7 +6079,7 @@ act	NN
 but	CC
 visit	VB
 her	PRP$
-bereaved	JJ
+bereaved	VBN
 family	NN
 and	CC
 the	DT
@@ -6135,7 +6135,7 @@ is	VBZ
 called	VBN
 the	DT
 "	JJ
-spiritual	NN
+spiritual	JJ
 leader	NN
 "	NN
 .	.
@@ -7147,8 +7147,8 @@ strip	VB
 every	DT
 woman	NN
 because	IN
-one	PRP
-pretended	VBD
+one	CD
+pretended	VBN
 to	TO
 be	VB
 pregnant	JJ
@@ -10429,7 +10429,7 @@ the	DT
 Hazara	NNP
 Shia	NNP
 candidate	NN
-Mohammed	NNP
+Mohammed	VBN
 Mohaqeq	NNP
 to	TO
 accept	VB
@@ -11041,8 +11041,8 @@ calls	VBZ
 the	DT
 bluff	NN
 
-M.D.	NNP
-Nalapat	NNP
+M.D.	CD
+Nalapat	DT
 
 While	IN
 most	JJS
@@ -11883,10 +11883,10 @@ in	IN
 India	NNP
 that	WDT
 stepped	VBD
-in	IN
+in	RP
 after	IN
-Vajpayee	NNP
-indulged	VBD
+Vajpayee	NN
+indulged	VBN
 in	IN
 an	DT
 empty	JJ
@@ -12230,7 +12230,7 @@ Osama	NNP
 bin	IN
 Laden	NNP
 
-M.D.	NNP
+M.D.	CD
 Nalapat	NNP
 ,	,
 an	DT
@@ -12244,7 +12244,7 @@ of	IN
 geopolitics	NNS
 at	IN
 the	DT
-Manipal	NNP
+Manipal	JJ
 Academy	NNP
 of	IN
 Higher	NNP
@@ -12503,7 +12503,7 @@ Asia	NNP
 expert	NN
 at	IN
 the	DT
-Jawaharal	NNP
+Jawaharal	JJ
 Nehru	NNP
 University	NNP
 ,	,
@@ -12682,7 +12682,7 @@ ceasefire	NN
 that	IN
 Oslo	NNP
 successfully	RB
-brokered	VBD
+brokered	VBN
 in	IN
 February	NNP
 2002	CD
@@ -14858,7 +14858,7 @@ across	IN
 the	DT
 Bay	NNP
 of	IN
-Bengal	NNP
+Bengal	JJ
 the	DT
 freighter	NN
 was	VBD
@@ -15540,7 +15540,7 @@ were	VBD
 seeking	VBG
 to	TO
 recreate	VB
-Mohammed	NNP
+Mohammed	VBN
 's	POS
 taking	NN
 of	IN
@@ -16105,7 +16105,7 @@ must	MD
 be	VB
 given	VBN
 before	IN
-biochemical	NN
+biochemical	JJ
 weapons	NNS
 are	VBP
 used	VBN
@@ -16123,7 +16123,7 @@ Michael	NNP
 Scheuer	NNP
 ,	,
 an	DT
-al	NN
+al	JJ
 -	HYPH
 Qaeda	NNP
 analyst	NN
@@ -16452,7 +16452,7 @@ In	IN
 March	NNP
 2003	CD
 ,	,
-Mohammed	NNP
+Mohammed	VBN
 reportedly	RB
 said	VBD
 that	IN
@@ -16945,7 +16945,7 @@ were	VBD
 seeking	VBG
 to	TO
 recreate	VB
-Mohammed	NNP
+Mohammed	VBN
 's	POS
 taking	NN
 of	IN
@@ -17248,7 +17248,7 @@ letter	NN
 threatened	VBD
 to	TO
 use	VB
-biochemical	NN
+biochemical	JJ
 weapons	NNS
 if	IN
 the	DT
@@ -17278,7 +17278,7 @@ Hambali	NNP
 
 Use	NN
 of	IN
-biochemical	NN
+biochemical	JJ
 weapons	NNS
 as	RB
 blackmail	VB
@@ -17407,7 +17407,7 @@ seed	NN
 product	NN
 in	IN
 its	PRP$
-unweaponized	JJ
+unweaponized	VBN
 form	NN
 ,	,
 since	IN
@@ -17454,7 +17454,7 @@ of	IN
 Al	NNP
 Qaeda	NNP
 's	POS
-biochemical	NN
+biochemical	JJ
 program	NN
 .	.
 
@@ -17625,7 +17625,7 @@ used	VBN
 and	CC
 obtaining	VBG
 the	DT
-unprocessed	JJ
+unprocessed	VBN
 Ames	NNP
 strain	NN
 of	IN
@@ -17715,8 +17715,8 @@ of	IN
 the	DT
 strain	NN
 to	IN
-Ft.	NNP
-Detrick	NNP
+Ft.	CD
+Detrick	NN
 .	.
 
 Senator	NNP
@@ -18090,7 +18090,7 @@ possible	JJ
 difficulties	NNS
 in	IN
 aerial	JJ
-dispersal	NN
+dispersal	JJ
 ,	,
 they	PRP
 are	VBP
@@ -19245,8 +19245,8 @@ Curveball	NNP
 "	NNP
 ,	,
 which	WDT
-Alibek	NNP
-divined	VBD
+Alibek	VBP
+divined	VBN
 to	TO
 be	VB
 identical	JJ
@@ -20207,7 +20207,7 @@ he	PRP
 was	VBD
 also	RB
 a	DT
-spiritual	NN
+spiritual	JJ
 leader	NN
 of	IN
 Al	NNP
@@ -20401,7 +20401,7 @@ Qaeda	NNP
 3	CD
 .	.
 
-Mohammed	NNP
+Mohammed	VBN
 allegedly	RB
 was	VBD
 hiding	NN
@@ -20666,7 +20666,7 @@ in	IN
 the	DT
 Al	NNP
 Qaeda	NNP
-manual	NN
+manual	JJ
 .	.
 
 The	DT
@@ -20765,7 +20765,7 @@ Osama	NNP
 Bin	NNP
 Laden	NNP
 later	RB
-invoked	VBD
+invoked	VBN
 the	DT
 symbolism	NN
 in	IN
@@ -20950,7 +20950,7 @@ Group	NNP
 or	CC
 Jihad	NNP
 -	HYPH
-al	NN
+al	JJ
 Qaeda	NNP
 ,	,
 which	WDT
@@ -21128,9 +21128,9 @@ former	JJ
 US	NNP
 Army	NNP
 sergeant	NN
-named	VBD
+named	VBN
 Ali	NNP
-Mohammed	NNP
+Mohammed	VBN
 .	.
 
 What	WP
@@ -21736,7 +21736,7 @@ to	TO
 see	VB
 these	DT
 slides	NNS
-....	:
+....	CD
 they	PRP
 are	VBP
 amazing	JJ
@@ -22197,7 +22197,7 @@ and	CC
 he	PRP
 is	VBZ
 the	DT
-spiritual	NN
+spiritual	JJ
 leader	NN
 of	IN
 Hamas	NNP
@@ -23871,7 +23871,7 @@ former	JJ
 information	NN
 minister	NN
 ,	,
-M.S.	NNP
+M.S.	CD
 Al	NNP
 -	HYPH
 Sahaf	NNP
