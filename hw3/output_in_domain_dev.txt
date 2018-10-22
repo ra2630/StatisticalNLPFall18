@@ -3,9 +3,9 @@ members	NNS
 of	IN
 the	DT
 House	NNP
-Ways	NNP
+Ways	NNPS
 and	CC
-Means	NNP
+Means	NNPS
 Committee	NNP
 introduced	VBD
 legislation	NN
@@ -64,7 +64,7 @@ Corp.	NNP
 from	IN
 raising	VBG
 temporary	JJ
-working	NN
+working	VBG
 capital	NN
 by	IN
 having	VBG
@@ -110,7 +110,7 @@ authorization	NN
 .	.
 
 ``	``
-Such	JJ
+Such	PDT
 agency	NN
 `	``
 self	NN
@@ -155,7 +155,7 @@ financing	NN
 plan	NN
 in	IN
 the	DT
-S&L	NNP
+S&L	NN
 bailout	NN
 law	NN
 includes	VBZ
@@ -380,7 +380,7 @@ before	IN
 we	PRP
 can	MD
 move	VB
-forward	RB
+forward	RP
 ,	,
 ''	''
 he	PRP
@@ -412,7 +412,7 @@ borrow	VB
 from	IN
 the	DT
 Treasury	NNP
-up	NN
+up	RP
 to	IN
 $	$
 5	CD
@@ -476,13 +476,13 @@ more	RBR
 public	JJ
 debt	NN
 ,	,
-say	VBP
+say	UH
 opponents	NNS
 of	IN
 the	DT
 RTC	NNP
 's	POS
-working	JJ
+working	NN
 -	HYPH
 capital	NN
 plan	NN
@@ -521,7 +521,7 @@ a	DT
 proposal	NN
 like	IN
 the	DT
-one	NN
+one	CD
 from	IN
 Ways	NNP
 and	CC
@@ -531,7 +531,7 @@ which	WDT
 seems	VBZ
 to	IN
 me	PRP
-sort	RB
+sort	NN
 of	IN
 draconian	JJ
 ,	,
@@ -568,9 +568,9 @@ flexibility	NN
 ''	''
 
 The	DT
-Ways	NNP
+Ways	NNPS
 and	CC
-Means	NNP
+Means	NNPS
 Committee	NNP
 will	MD
 hold	VB
@@ -636,7 +636,7 @@ investing	NN
 the	DT
 market	NN
 's	POS
-just	JJ
+just	RB
 fine	NN
 .	.
 
@@ -878,7 +878,7 @@ Fidelity	NNP
 's	POS
 automated	JJ
 800	CD
--	HYPH
+-	SYM
 number	NN
 beneath	IN
 the	DT
@@ -907,7 +907,7 @@ line	NN
 which	WDT
 already	RB
 was	VBD
-operating	VBG
+operating	NN
 but	CC
 which	WDT
 many	JJ
@@ -919,7 +919,7 @@ about	RB
 ,	,
 received	VBD
 about	RB
-double	VB
+double	PDT
 the	DT
 usual	JJ
 volume	NN
@@ -1032,7 +1032,7 @@ the	DT
 past	JJ
 week	NN
 ,	,
-all	DT
+all	PDT
 investors	NNS
 need	VBP
 to	TO
@@ -1104,9 +1104,9 @@ ultimately	RB
 getting	VBG
 its	PRP$
 timing	NN
-down	IN
-fast	JJ
-enough	NN
+down	RB
+fast	RB
+enough	JJ
 to	TO
 tape	VB
 a	DT
@@ -1155,7 +1155,7 @@ commercial	NN
 ,	,
 created	VBN
 with	IN
-ad	NN
+ad	FW
 agency	NN
 Saatchi	NNP
 &	CC
@@ -1166,7 +1166,7 @@ features	VBZ
 Mary	NNP
 Farrell	NNP
 ,	,
-one	NN
+one	CD
 of	IN
 the	DT
 firm	NN
@@ -1251,7 +1251,7 @@ PaineWebber	NNP
 considered	VBD
 an	DT
 even	RB
-harder	JJR
+harder	RBR
 sell	NN
 ,	,
 recommending	VBG
@@ -1300,7 +1300,7 @@ market	NN
 go	VB
 down	RP
 and	CC
-dump	NN
+dump	VB
 everything	NN
 ,	,
 which	WDT
@@ -1308,8 +1308,8 @@ just	RB
 drives	VBZ
 the	DT
 prices	NNS
-down	IN
-further	JJ
+down	RB
+further	RBR
 ,	,
 ''	''
 says	VBZ
@@ -1362,7 +1362,7 @@ and	CC
 then	RB
 closing	VBG
 up	RP
-more	JJR
+more	RBR
 than	IN
 88	CD
 points	NNS
@@ -1408,7 +1408,7 @@ had	VBD
 been	VBN
 to	TO
 make	VB
-one	NN
+one	CD
 of	IN
 Shearson	NNP
 's	POS
@@ -1510,7 +1510,7 @@ anything	NN
 needs	VBZ
 to	TO
 be	VB
-said	VBN
+said	VBD
 .	.
 
 The	DT
@@ -1729,7 +1729,7 @@ Brook	NNP
 ,	,
 Ill.	NNP
 ,	,
-named	VBD
+named	VBN
 Arnold	NNP
 to	TO
 handle	VB
@@ -1819,7 +1819,7 @@ corporate	JJ
 advertisers	NNS
 and	CC
 kicks	VBZ
-off	IN
+off	RP
 a	DT
 two	CD
 -	HYPH
@@ -1874,9 +1874,9 @@ explains	VBZ
 why	WRB
 we	PRP
 are	VBP
-like	JJ
+like	IN
 ,	,
-well	RB
+well	UH
 ,	,
 ourselves	PRP
 rather	RB
@@ -1925,7 +1925,7 @@ tunes	NNS
 
 Baseball	NNP
 ,	,
-that	DT
+that	WDT
 game	NN
 of	IN
 the	DT
@@ -2006,7 +2006,7 @@ by	IN
 the	DT
 Los	NNP
 Angeles	NNP
-Dodgers	NNP
+Dodgers	NNPS
 and	CC
 Orel	NNP
 Hershiser	NNP
@@ -2063,7 +2063,7 @@ was	VBD
 done	VBN
 by	IN
 the	DT
-A	NNP
+A	NN
 's	POS
 catcher	NN
 ,	,
@@ -2121,7 +2121,7 @@ struck	VBN
 just	RB
 seven	CD
 home	NN
-runs	NNS
+runs	VBZ
 in	IN
 130	CD
 regular	JJ
@@ -2137,7 +2137,7 @@ seventh	JJ
 position	NN
 of	IN
 the	DT
-A	NNP
+A	NN
 's	POS
 lineup	NN
 .	.
@@ -2176,7 +2176,7 @@ of	IN
 the	DT
 boys	NNS
 in	IN
-green	NN
+green	JJ
 and	CC
 gold	NN
 salted	VBD
@@ -2222,8 +2222,8 @@ two	CD
 more	JJR
 than	IN
 he	PRP
-'d	VBD
-had	VBN
+'d	MD
+had	VBD
 in	IN
 the	DT
 five	CD
@@ -2234,7 +2234,7 @@ series	NN
 in	IN
 which	WDT
 he	PRP
-'d	VBD
+'d	MD
 gone	VBN
 1	CD
 -	HYPH
@@ -2299,7 +2299,7 @@ to	IN
 account	NN
 for	IN
 the	DT
-zero	NN
+zero	CD
 on	IN
 the	DT
 other	JJ
@@ -2355,7 +2355,7 @@ way	NN
 his	PRP$
 split	NN
 -	HYPH
-fingered	JJ
+fingered	VBN
 fastball	NN
 is	VBZ
 behaving	VBG
@@ -2416,7 +2416,7 @@ finger	NN
 than	IN
 the	DT
 guy	NN
-before	RB
+before	IN
 ,	,
 ''	''
 marveled	VBD
@@ -2464,7 +2464,7 @@ downshoot	NN
 is	VBZ
 that	IN
 the	DT
-A	NNP
+A	NN
 's	POS
 go	NN
 into	IN
@@ -2519,7 +2519,7 @@ on	RP
 to	TO
 win	VB
 it	PRP
-all	RB
+all	PDT
 .	.
 
 That	DT
@@ -2529,11 +2529,11 @@ an	DT
 average	NN
 to	TO
 soothe	VB
-Giant	JJ
+Giant	NNP
 rooters	NNS
 .	.
 
-One	PRP
+One	CD
 might	MD
 think	VB
 that	IN
@@ -2618,12 +2618,12 @@ opposition	NN
 ,	,
 hostilities	NNS
 advanced	VBD
-no	DT
-further	JJ
+no	RB
+further	RBR
 ,	,
 at	RB
 least	RBS
-as	RB
+as	IN
 far	RB
 as	IN
 I	PRP
@@ -2654,7 +2654,7 @@ I	PRP
 'm	VBP
 for	IN
 the	DT
-Giants	NNP
+Giants	NNPS
 today	NN
 ,	,
 but	CC
@@ -2668,7 +2668,7 @@ yesterday	NN
 I	PRP
 love	VBP
 'em	PRP
-both	DT
+both	PDT
 .	.
 
 The	DT
@@ -2706,7 +2706,7 @@ go	NN
 .	.
 
 The	DT
-above	RB
+above	JJ
 represents	VBZ
 a	DT
 triumph	NN
@@ -2733,7 +2733,7 @@ springs	VBZ
 from	IN
 the	DT
 fact	NN
-that	IN
+that	WDT
 just	RB
 about	IN
 everyone	NN
@@ -2742,7 +2742,7 @@ here	RB
 ,	,
 including	VBG
 the	DT
-A	NNP
+A	NN
 's	POS
 and	CC
 Giants	NNP
@@ -2798,7 +2798,7 @@ other	JJ
 seat	NN
 to	TO
 separate	VB
-opposing	JJ
+opposing	VBG
 fans	NNS
 ,	,
 and	CC
@@ -2814,7 +2814,7 @@ bonnets	NNS
 Anyway	RB
 ,	,
 the	DT
-A	NNP
+A	NN
 's	POS
 gave	VBD
 you	PRP
@@ -2882,7 +2882,7 @@ runner	NN
 along	IN
 in	IN
 the	DT
-A	NNP
+A	NN
 's	POS
 three	CD
 -	HYPH
@@ -2900,7 +2900,7 @@ final	JJ
 tally	NN
 .	.
 
-Such	JJ
+Such	PDT
 is	VBZ
 his	PRP$
 reputation	NN
@@ -3130,7 +3130,7 @@ else	RB
 that	WDT
 gives	VBZ
 the	DT
-Giants	NNP
+Giants	NNPS
 hope	NN
 in	IN
 the	DT
@@ -3170,7 +3170,7 @@ see	VB
 a	DT
 so	RB
 -	HYPH
-so	JJ
+so	RB
 hitter	NN
 who	WP
 's	VBZ
@@ -3224,7 +3224,7 @@ you	PRP
 'll	MD
 get	VB
 it	PRP
-back	RB
+back	RP
 ,	,
 ''	''
 he	PRP
@@ -3233,7 +3233,7 @@ said	VBD
 
 ``	``
 That	DT
-'s	VBZ
+'s	POS
 baseball	NN
 .	.
 
@@ -3312,13 +3312,13 @@ company	NN
 continued	VBD
 its	PRP$
 stock	NN
-buy	NN
+buy	VB
 -	HYPH
-back	NN
+back	RP
 plan	NN
 .	.
 
-Average	JJ
+Average	NNP
 shares	NNS
 outstanding	JJ
 dropped	VBD
@@ -3385,8 +3385,8 @@ make	VB
 it	PRP
 difficult	JJ
 ''	''
-to	TO
-better	VB
+to	IN
+better	JJR
 1988	CD
 results	NNS
 .	.
@@ -3395,7 +3395,7 @@ NCR	NNP
 said	VBD
 revenue	NN
 declined	VBD
-both	DT
+both	PDT
 in	IN
 the	DT
 U.S.	NNP
@@ -3521,7 +3521,7 @@ an	DT
 analyst	NN
 for	IN
 Salomon	NNP
-Brothers	NNP
+Brothers	NNPS
 Inc	NNP
 .	.
 
@@ -3765,7 +3765,7 @@ the	DT
 practice	NN
 to	IN
 the	DT
-poor	NN
+poor	JJ
 ,	,
 maligned	VBN
 analysts	NNS
@@ -3791,7 +3791,7 @@ harsh	JJ
 standards	NNS
 to	IN
 the	DT
-sales	JJ
+sales	NNS
 force	NN
 ,	,
 and	CC
@@ -3850,7 +3850,7 @@ Now	RB
 ,	,
 would	MD
 n't	RB
-that	RB
+that	IN
 be	VB
 a	DT
 novelty	NN
@@ -3875,7 +3875,7 @@ Hutton	NNP
 Inc.	NNP
 trader	NN
 ,	,
-reported	VBN
+reported	VBD
 for	IN
 work	NN
 at	IN
@@ -3947,7 +3947,7 @@ said	VBD
 I	PRP
 was	VBD
 woken	VBN
-up	IN
+up	RP
 every	DT
 hour	NN
 --	:
@@ -4081,7 +4081,7 @@ trading	VBG
 here	RB
 yesterday	NN
 ,	,
-all	DT
+all	PDT
 eyes	NNS
 were	VBD
 on	IN
@@ -4238,7 +4238,7 @@ opened	VBD
 at	IN
 2076.8	CD
 ,	,
-off	RB
+off	IN
 157.1	CD
 points	NNS
 ,	,
@@ -4342,7 +4342,7 @@ tend	VBP
 to	TO
 run	VB
 a	DT
-very	JJ
+very	RB
 tight	JJ
 book	NN
 .	.
@@ -4429,13 +4429,13 @@ minutes	NNS
 ,	,
 a	DT
 trader	NN
-next	IN
+next	JJ
 to	IN
 Mr.	NNP
 Smith	NNP
 left	VBD
 the	DT
-no	NN
+no	RB
 -	HYPH
 smoking	NN
 area	NN
@@ -4476,7 +4476,7 @@ Because	IN
 Tokyo	NNP
 did	VBD
 n't	RB
-collapse	VB
+collapse	NN
 ,	,
 let	VB
 's	POS
@@ -4649,7 +4649,7 @@ troubles	NNS
 of	IN
 its	PRP$
 own	JJ
-even	NN
+even	RB
 before	IN
 Friday	NNP
 's	POS
@@ -4703,7 +4703,7 @@ turbulence	NN
 
 He	PRP
 was	VBD
-right	RB
+right	NN
 .	.
 
 By	IN
@@ -4736,7 +4736,7 @@ pit	NN
 trader	NN
 who	WP
 was	VBD
-standing	VBG
+standing	NN
 outside	IN
 the	DT
 London	NNP
@@ -4771,8 +4771,8 @@ nearby	RB
 Conversation	NN
 was	VBD
 subdued	VBN
-as	IN
-most	JJS
+as	RB
+most	RBS
 patrons	NNS
 watched	VBD
 the	DT
@@ -4795,7 +4795,7 @@ low	JJ
 ,	,
 2029.7	CD
 ,	,
-off	RB
+off	IN
 204.2	CD
 points	NNS
 .	.
@@ -4807,7 +4807,7 @@ the	DT
 limit	NN
 down	RB
 ,	,
-off	RB
+off	IN
 at	RB
 least	RBS
 10	CD
@@ -4846,7 +4846,7 @@ down	RB
 10	CD
 %	NN
 and	CC
-suspended	VBD
+suspended	VBN
 ,	,
 Sweden	NNP
 's	POS
@@ -4885,7 +4885,7 @@ Shearson	NNP
 traders	NNS
 and	CC
 salesmen	NNS
-traded	VBD
+traded	VBN
 bets	NNS
 on	IN
 how	WRB
@@ -4977,19 +4977,19 @@ the	DT
 U.K	NNP
 .	.
 
-Investors	NNS
+Investors	NNPS
 here	RB
 still	RB
-expect	VB
+expect	VBP
 Ford	NNP
 Motor	NNP
 Co.	NNP
 or	CC
 General	NNP
-Motors	NNP
+Motors	NNPS
 Corp.	NNP
 to	TO
-bid	VB
+bid	NN
 for	IN
 Jaguar	NNP
 .	.
@@ -5028,7 +5028,7 @@ as	IN
 the	DT
 U.S.	NNP
 Major	NNP
-Markets	NNP
+Markets	NNPS
 Index	NNP
 contract	NN
 suddenly	RB
@@ -5089,7 +5089,7 @@ Rally	NNP
 !	.
 Rally	NNP
 !	.
-Rally	NNP
+Rally	NN
 !	.
 ''	''
 shouted	VBD
@@ -5141,7 +5141,7 @@ at	IN
 2163.4	CD
 ,	,
 its	PRP$
-high	NN
+high	JJ
 for	IN
 the	DT
 day	NN
@@ -5309,9 +5309,9 @@ Corp.	NNP
 parent	NN
 of	IN
 United	NNP
-Airlines	NNP
+Airlines	NNPS
 ,	,
-spurred	VBD
+spurred	VBN
 quick	JJ
 action	NN
 on	IN
@@ -5398,7 +5398,7 @@ Airlines	NNPS
 In	IN
 a	DT
 letter	NN
-to	IN
+to	TO
 subcommittee	NN
 Chairman	NNP
 James	NNP
@@ -5523,7 +5523,7 @@ other	JJ
 committee	NN
 members	NNS
 repeatedly	RB
-stressed	VBN
+stressed	VBD
 that	IN
 the	DT
 legislation	NN
@@ -5645,7 +5645,7 @@ transportation	NN
 secretary	NN
 does	VBZ
 n't	RB
-have	VB
+have	VBP
 clearly	RB
 established	VBN
 authority	NN
@@ -5758,7 +5758,7 @@ secretary	NN
 and	CC
 to	TO
 provide	VB
-all	DT
+all	PDT
 information	NN
 relevant	JJ
 to	IN
@@ -5781,7 +5781,7 @@ reject	VB
 a	DT
 buy	NN
 -	HYPH
-out	NN
+out	RP
 if	IN
 sufficient	JJ
 information	NN
@@ -5795,7 +5795,7 @@ if	IN
 the	DT
 buy	NN
 -	HYPH
-out	NN
+out	RP
 is	VBZ
 likely	JJ
 to	TO
@@ -5890,7 +5890,7 @@ But	CC
 several	JJ
 committee	NN
 members	NNS
-disapproved	VBD
+disapproved	VBN
 ,	,
 some	DT
 backing	NN
@@ -5943,9 +5943,9 @@ entities	NNS
 and	CC
 producing	VBG
 independent	JJ
-spin	NN
+spin	VB
 -	HYPH
-off	NN
+off	RP
 companies	NNS
 .	.
 
@@ -5963,7 +5963,7 @@ Boeing	NNP
 Co.	NNP
 and	CC
 striking	JJ
-Machinists	NNS
+Machinists	NNPS
 union	NN
 members	NNS
 ,	,
@@ -5996,7 +5996,7 @@ could	MD
 be	VB
 a	DT
 short	JJ
-one	NN
+one	CD
 ,	,
 ''	''
 said	VBD
@@ -6033,7 +6033,7 @@ scheduled	VBN
 again	RB
 but	CC
 beyond	IN
-that	DT
+that	WDT
 ,	,
 we	PRP
 have	VBP
@@ -6051,7 +6051,7 @@ said	VBD
 .	.
 
 The	DT
-Machinists	NNP
+Machinists	NNPS
 union	NN
 has	VBZ
 rejected	VBN
@@ -6349,7 +6349,7 @@ in	IN
 May	NNP
 ,	,
 but	CC
-Dataproducts	NNP
+Dataproducts	NNPS
 management	NN
 considered	VBD
 the	DT
@@ -6415,7 +6415,7 @@ September	NNP
 and	CC
 took	VBD
 itself	PRP
-off	IN
+off	RP
 the	DT
 auction	NN
 block	NN
@@ -6547,9 +6547,9 @@ Friday	NNP
 's	POS
 New	NNP
 York	NNP
-sell	NN
+sell	VB
 -	HYPH
-off	NN
+off	RP
 ,	,
 but	CC
 some	DT
@@ -6570,7 +6570,7 @@ rout	NN
 European	JJ
 investors	NNS
 have	VBP
-further	JJ
+further	RBR
 reason	NN
 for	IN
 optimism	NN
@@ -6598,7 +6598,7 @@ opened	VBD
 ,	,
 was	VBD
 the	DT
-hardest	JJS
+hardest	RBS
 hit	NN
 of	IN
 the	DT
@@ -6673,7 +6673,7 @@ quickly	RB
 There	EX
 may	MD
 be	VB
-one	NN
+one	CD
 or	CC
 other	JJ
 psychological	JJ
@@ -6808,7 +6808,7 @@ day	NN
 record	NN
 ,	,
 wiping	VBG
-out	IN
+out	RP
 the	DT
 summer	NN
 's	POS
@@ -6876,7 +6876,7 @@ of	IN
 the	DT
 Frankfurt	NNP
 exchange	NN
-'s	VBZ
+'s	POS
 losing	VBG
 35	CD
 %	NN
@@ -7014,7 +7014,7 @@ AG	NNP
 It	PRP
 took	VBD
 three	CD
--	HYPH
+-	SYM
 quarters	NNS
 of	IN
 an	DT
@@ -7089,8 +7089,8 @@ why	WRB
 everybody	NN
 was	VBD
 a	DT
-little	RB
-surprised	VBN
+little	JJ
+surprised	JJ
 by	IN
 the	DT
 storm	NN
@@ -7333,7 +7333,7 @@ stock	NN
 market	NN
 recouped	VBD
 two	CD
--	HYPH
+-	SYM
 thirds	NNS
 of	IN
 its	PRP$
@@ -7367,7 +7367,7 @@ at	IN
 2163.4	CD
 ,	,
 its	PRP$
-high	NN
+high	JJ
 for	IN
 the	DT
 day	NN
@@ -7386,7 +7386,7 @@ It	PRP
 was	VBD
 big	JJ
 institutions	NNS
-such	JJ
+such	PDT
 as	IN
 Norwich	NNP
 Union	NNP
@@ -7437,7 +7437,7 @@ shares	NNS
 ,	,
 more	JJR
 than	IN
-triple	JJ
+triple	PDT
 recent	JJ
 levels	NNS
 .	.
@@ -7450,7 +7450,7 @@ buying	NN
 gave	VBD
 the	DT
 Paris	NNP
-Bourse	NNP
+Bourse	FW
 a	DT
 parachute	NN
 after	IN
@@ -7468,7 +7468,7 @@ CAC	NNP
 General	NNP
 Index	NNP
 ended	VBD
-down	RB
+down	RP
 5.4	CD
 %	NN
 at	IN
@@ -7496,7 +7496,7 @@ I	PRP
 have	VBP
 never	RB
 seen	VBN
-before	RB
+before	IN
 ,	,
 ''	''
 said	VBD
@@ -7517,7 +7517,7 @@ When	WRB
 Wall	NNP
 Street	NNP
 turned	VBD
-around	RB
+around	RP
 shortly	RB
 after	IN
 the	DT
@@ -7561,7 +7561,7 @@ in	IN
 mid-conversation	NN
 ,	,
 ordering	VBG
-buys	NNS
+buys	VBZ
 instead	RB
 .	.
 
@@ -7921,7 +7921,7 @@ Morgan	NNP
 said	VBD
 .	.
 
-Such	JJ
+Such	PDT
 loans	NNS
 to	IN
 Argentina	NNP
@@ -7946,7 +7946,7 @@ third	JJ
 period	NN
 .	.
 
-Income	NN
+Income	NNP
 from	IN
 sources	NNS
 other	JJ
@@ -8237,7 +8237,7 @@ deterioration	NN
 in	IN
 credit	NN
 quality	NN
-offset	VBD
+offset	VBN
 strong	JJ
 loan	NN
 growth	NN
@@ -8275,7 +8275,7 @@ on	IN
 deposits	NNS
 also	RB
 helped	VBD
-squeeze	VB
+squeeze	NN
 NCNB	NNP
 's	POS
 net	JJ
@@ -8334,7 +8334,7 @@ remnants	NNS
 of	IN
 of	IN
 the	DT
-failed	JJ
+failed	VBN
 First	NNP
 RepublicBank	NNP
 Corp.	NNP
@@ -8420,7 +8420,7 @@ company	NN
 said	VBD
 it	PRP
 purchased	VBD
-both	DT
+both	PDT
 Freedom	NNP
 Savings	NNP
 &	CC
@@ -8509,7 +8509,7 @@ the	DT
 Los	NNP
 Angeles	NNP
 bank	NN
-holding	NN
+holding	VBG
 company	NN
 was	VBD
 still	RB
@@ -8611,7 +8611,7 @@ loans	NNS
 These	DT
 high	JJ
 -	HYPH
-yielding	JJ
+yielding	VBG
 loans	NNS
 in	IN
 effect	NN
@@ -8619,9 +8619,9 @@ replaced	VBD
 some	DT
 low	JJ
 -	HYPH
-yielding	JJ
+yielding	VBG
 assets	NNS
-such	JJ
+such	PDT
 as	IN
 inter-bank	JJ
 loans	NNS
@@ -8787,7 +8787,7 @@ loan	NN
 loss	NN
 provision	NN
 was	VBD
-down	RB
+down	RP
 22	CD
 %	NN
 ,	,
@@ -8807,7 +8807,7 @@ debt	NN
 reserve	NN
 the	DT
 year	NN
-before	RB
+before	IN
 .	.
 
 Non-interest	JJ
@@ -8966,7 +8966,7 @@ that	WDT
 would	MD
 buy	VB
 out	RP
-remaining	JJ
+remaining	VBG
 holders	NNS
 at	IN
 a	DT
@@ -8975,7 +8975,7 @@ per	FW
 share	NN
 price	NN
 roughly	RB
-equivalent	JJ
+equivalent	NN
 to	IN
 what	WP
 a	DT
@@ -8987,7 +8987,7 @@ have	VB
 to	TO
 pay	VB
 for	IN
-all	DT
+all	PDT
 of	IN
 LIN	NNP
 .	.
@@ -9035,7 +9035,7 @@ the	DT
 McCaw	NNP
 proposal	NN
 in	IN
-as	RB
+as	IN
 full	JJ
 and	CC
 effective	JJ
@@ -9162,7 +9162,7 @@ at	IN
 $	$
 104.75	CD
 ,	,
-down	RB
+down	IN
 $	$
 2.75	CD
 .	.
@@ -9206,7 +9206,7 @@ inadequate	JJ
 In	IN
 a	DT
 letter	NN
-filed	VBN
+filed	VBD
 with	IN
 the	DT
 Securities	NNPS
@@ -9250,7 +9250,7 @@ less	JJR
 than	IN
 $	$
 25	CD
-per	IN
+per	FW
 share	NN
 would	MD
 be	VB
@@ -9390,7 +9390,7 @@ and	CC
 T.	NNP
 Rowe	NNP
 Price	NNP
-Associates	NNP
+Associates	NNPS
 Inc.	NNP
 ,	,
 Baltimore	NNP
@@ -9410,7 +9410,7 @@ has	VBZ
 ``	``
 concerns	NNS
 as	IN
-to	IN
+to	TO
 whether	IN
 Dow	NNP
 Jones	NNP
@@ -9461,7 +9461,7 @@ to	TO
 buy	VB
 any	DT
 and	CC
-all	DT
+all	PDT
 shares	NNS
 tendered	VBN
 at	IN
@@ -9483,7 +9483,7 @@ dispute	NN
 -	HYPH
 settlement	NN
 panel	NN
-set	VBN
+set	VBD
 up	RP
 under	IN
 the	DT
@@ -9561,7 +9561,7 @@ value	NN
 to	IN
 the	DT
 losses	NNS
-suffered	VBN
+suffered	VBD
 by	IN
 U.S.	NNP
 fish	NN
@@ -9690,8 +9690,8 @@ replaced	VBN
 by	IN
 regulations	NNS
 requiring	VBG
-that	DT
-such	JJ
+that	IN
+such	PDT
 fish	NN
 had	VBD
 to	TO
@@ -9768,7 +9768,7 @@ she	PRP
 said	VBD
 .	.
 
-Earlier	RB
+Earlier	RBR
 ,	,
 an	DT
 international	JJ
@@ -9871,7 +9871,7 @@ pay	VB
 no	DT
 heed	NN
 ,	,
-To	IN
+To	TO
 while	IN
 the	DT
 precious	JJ
@@ -9931,7 +9931,7 @@ restructuring	NN
 agreement	NN
 previously	RB
 agreed	VBD
-to	IN
+to	TO
 by	IN
 the	DT
 Federal	NNP
@@ -10097,7 +10097,7 @@ buyers	NNS
 ,	,
 the	DT
 bank	NN
-holding	NN
+holding	VBG
 company	NN
 said	VBD
 .	.
@@ -10145,7 +10145,7 @@ for	IN
 every	DT
 share	NN
 of	IN
-preferred	VBG
+preferred	JJ
 they	PRP
 own	VBP
 ,	,
@@ -10176,7 +10176,7 @@ Global	NNP
 Spectator	NNP
 :	:
 
-Were	VB
+Were	VBD
 it	PRP
 true	JJ
 that	IN
@@ -10224,7 +10224,7 @@ its	PRP$
 common	JJ
 shares	NNS
 and	CC
-all	RB
+all	PDT
 of	IN
 its	PRP$
 $	$
@@ -10705,7 +10705,7 @@ disposal	NN
 of	IN
 its	PRP$
 Fine	NNP
-Homes	NNP
+Homes	NNPS
 International	NNP
 Limited	NNP
 Partnership	NNP
@@ -10718,7 +10718,7 @@ subsidiary	NN
 Bear	NNP
 Stearns	NNP
 said	VBD
-net	JJ
+net	NN
 in	IN
 the	DT
 first	JJ
@@ -10810,7 +10810,7 @@ Bear	NNP
 Stearns	NNP
 is	VBZ
 the	DT
-holding	NN
+holding	VBG
 company	NN
 for	IN
 Bear	NNP
@@ -10882,7 +10882,7 @@ in	IN
 the	DT
 company	NN
 's	POS
-core	JJ
+core	NN
 businesses	NNS
 .	.
 
@@ -11030,7 +11030,7 @@ story	NN
 structure	NN
 is	VBZ
 subject	JJ
-to	IN
+to	TO
 execution	NN
 of	IN
 a	DT
@@ -11093,12 +11093,12 @@ payment	NN
 problems	NNS
 when	WRB
 stocks	NNS
-dive	VBP
+dive	NN
 ;	:
 those	DT
 investors	NNS
 often	RB
-borrow	VBP
+borrow	VB
 heavily	RB
 to	TO
 buy	VB
@@ -11159,7 +11159,7 @@ bank	NN
 
 ``	``
 That	DT
-'s	VBZ
+'s	POS
 good	JJ
 news	NN
 ,	,
@@ -11225,7 +11225,7 @@ What	WP
 happened	VBD
 Friday	NNP
 shows	VBZ
-that	DT
+that	IN
 financial	JJ
 markets	NNS
 are	VBP
@@ -11241,7 +11241,7 @@ in	IN
 prices	NNS
 .	.
 
-No	DT
+No	UH
 fiddling	NN
 with	IN
 systems	NNS
@@ -11483,7 +11483,7 @@ Jones	NNP
 index	NN
 .	.
 
-Options	NNP
+Options	NNPS
 markets	NNS
 stopped	VBD
 trading	NN
@@ -11509,7 +11509,7 @@ open	JJ
 
 With	IN
 nowhere	RB
-else	JJ
+else	RB
 to	TO
 go	VB
 ,	,
@@ -11593,7 +11593,7 @@ exchanges	NNS
 reopened	VBD
 .	.
 
-Futures	NNP
+Futures	NNPS
 trading	NN
 ,	,
 however	RB
@@ -11638,8 +11638,8 @@ down	RP
 and	CC
 once	RB
 more	RBR
-left	VBN
-all	DT
+left	VBD
+all	PDT
 sales	NNS
 to	TO
 be	VB
@@ -11682,7 +11682,7 @@ become	VB
 so	RB
 closely	RB
 intertwined	VBN
-as	RB
+as	IN
 to	TO
 constitute	VB
 one	CD
@@ -11701,7 +11701,7 @@ their	PRP$
 orders	NNS
 in	IN
 any	DT
-one	NN
+one	CD
 of	IN
 them	PRP
 .	.
@@ -11731,12 +11731,12 @@ price	NN
 volatility	NN
 ,	,
 either	CC
-all	DT
+all	PDT
 markets	NNS
 should	MD
 be	VB
 open	JJ
-to	IN
+to	TO
 trading	NN
 or	CC
 none	NN
@@ -11798,7 +11798,7 @@ open	JJ
 Let	NNP
 's	POS
 not	RB
-have	VB
+have	VBP
 one	CD
 market	NN
 shut	VBD
@@ -11841,7 +11841,7 @@ market	NN
 officials	NNS
 will	MD
 disappear	VB
-once	IN
+once	RB
 rules	NNS
 are	VBP
 in	IN
@@ -11851,7 +11851,7 @@ synchronize	VBP
 circuit	NN
 breakers	NNS
 in	IN
-all	DT
+all	PDT
 markets	NNS
 .	.
 
@@ -11867,7 +11867,7 @@ to	TO
 be	VB
 applied	VBN
 at	IN
-all	DT
+all	PDT
 ,	,
 will	MD
 require	VB
@@ -11876,8 +11876,8 @@ futures	NNS
 and	CC
 options	NNS
 trading	NN
-continue	VBP
-as	RB
+continue	VB
+as	IN
 long	JJ
 as	IN
 the	DT
@@ -12044,8 +12044,8 @@ positions	NNS
 .	.
 
 (	(
-Of	RB
-course	RB
+Of	IN
+course	NN
 ,	,
 specialists	NNS
 '	POS
@@ -12202,7 +12202,7 @@ from	IN
 unions	NNS
 in	IN
 nations	NNS
-such	JJ
+such	PDT
 as	IN
 West	NNP
 Germany	NNP
@@ -12235,7 +12235,7 @@ like	VB
 plant	NN
 relocations	NNS
 and	CC
-needed	JJ
+needed	VBN
 restructuring	NN
 ,	,
 which	WDT
@@ -12252,7 +12252,7 @@ moving	VBG
 to	IN
 southern	JJ
 countries	NNS
-such	JJ
+such	PDT
 as	IN
 Spain	NNP
 and	CC
@@ -12275,7 +12275,7 @@ and	CC
 managers	NNS
 will	MD
 rise	VB
-there	RB
+there	EX
 ,	,
 FMC	NNP
 says	VBZ
@@ -12300,7 +12300,7 @@ for	IN
 job	NN
 training	NN
 and	CC
-ease	NN
+ease	VB
 in	IN
 moving	VBG
 and	CC
@@ -12419,7 +12419,7 @@ trouble	NN
 began	VBD
 .	.
 
-More	JJR
+More	RBR
 taunting	NN
 in	IN
 the	DT
@@ -12548,7 +12548,7 @@ experience	NN
 and	CC
 nurses	NNS
 '	POS
-demanding	JJ
+demanding	VBG
 work	NN
 schedules	NNS
 .	.
@@ -12604,7 +12604,7 @@ by	IN
 consultant	NN
 Hewitt	NNP
 Associates	NNPS
-use	VBP
+use	VB
 a	DT
 ``	``
 clinical	JJ
@@ -12619,7 +12619,7 @@ and	CC
 education	NN
 .	.
 
-Many	JJ
+Many	PDT
 also	RB
 use	VB
 recruiting	NN
@@ -12638,7 +12638,7 @@ help	NN
 .	.
 
 Some	DT
-give	NN
+give	VB
 lump	NN
 -	HYPH
 sum	NN
@@ -12647,7 +12647,7 @@ incentives	NNS
 
 MRA	NNP
 Staffing	NNP
-Systems	NNP
+Systems	NNPS
 signs	NNS
 up	IN
 nurses	NNS
@@ -12658,7 +12658,7 @@ travel	NN
 promising	VBG
 annual	JJ
 income	NN
-up	NN
+up	RP
 to	IN
 $	$
 50,000	CD
@@ -12734,7 +12734,7 @@ satisfied	VBN
 with	IN
 where	WRB
 they	PRP
-work	VBP
+work	NN
 .	.
 
 SPRUCING	VBG
@@ -12757,10 +12757,10 @@ Development	NNP
 for	IN
 four	CD
 months	NNS
-painted	JJ
+painted	VBN
 walls	NNS
 ,	,
-polished	JJ
+polished	VBN
 and	CC
 carpeted	VBD
 floors	NNS
@@ -12948,7 +12948,7 @@ employers	NNS
 
 But	CC
 they	PRP
-search	VBP
+search	NN
 for	IN
 ways	NNS
 to	TO
@@ -12968,7 +12968,7 @@ the	DT
 Employee	NNP
 Relocation	NNP
 Council	NNP
-report	VB
+report	NN
 a	DT
 rise	NN
 in	IN
@@ -12982,9 +12982,9 @@ over	IN
 About	RB
 72	CD
 %	NN
-reimburse	VBP
+reimburse	VB
 for	IN
-all	DT
+all	PDT
 or	CC
 some	DT
 losses	NNS
@@ -12996,7 +12996,7 @@ Since	IN
 more	JJR
 companies	NNS
 give	VBP
-sales	JJ
+sales	NNS
 -	HYPH
 loss	NN
 aid	NN
@@ -13122,7 +13122,7 @@ of	IN
 those	DT
 the	DT
 council	NN
-polled	VBD
+polled	VBN
 ,	,
 from	IN
 28	CD
@@ -13218,8 +13218,8 @@ day	NN
 When	WRB
 it	PRP
 was	VBD
-all	DT
-over	NN
+all	PDT
+over	IN
 and	CC
 stocks	NNS
 had	VBD
@@ -13274,7 +13274,7 @@ no	DT
 operating	NN
 problems	NNS
 at	IN
-all	DT
+all	PDT
 ,	,
 ''	''
 Mr.	NNP
@@ -13350,7 +13350,7 @@ said	VBD
 
 While	IN
 reaching	VBG
-blockbuster	JJ
+blockbuster	NN
 proportions	NNS
 yesterday	NN
 ,	,
@@ -13437,7 +13437,7 @@ Mr.	NNP
 Phelan	NNP
 said	VBD
 the	DT
-links	NN
+links	NNS
 with	IN
 the	DT
 Chicago	NNP
@@ -13455,7 +13455,7 @@ provide	VB
 a	DT
 cooling	NN
 -	HYPH
-off	NN
+off	RP
 period	NN
 .	.
 
@@ -13558,7 +13558,7 @@ food	NN
 customer	NN
 count	NN
 was	VBD
-down	RB
+down	RP
 2	CD
 %	NN
 .	.
@@ -13566,7 +13566,7 @@ down	RB
 Chicken	NNP
 business	NN
 is	VBZ
-off	RB
+off	RP
 largely	RB
 because	IN
 of	IN
@@ -13658,7 +13658,7 @@ chains	NNS
 also	RB
 are	VBP
 feeling	VBG
-more	JJR
+more	RBR
 pressure	NN
 from	IN
 McDonald	NNP
@@ -13674,7 +13674,7 @@ this	DT
 year	NN
 and	CC
 recently	RB
-tested	VBD
+tested	VBN
 the	DT
 sale	NN
 of	IN
@@ -13722,9 +13722,9 @@ products	NNS
 that	WDT
 are	VBP
 n't	RB
-fried	JJ
+fried	VBN
 ,	,
-such	JJ
+such	PDT
 as	IN
 ``	``
 char	NN
@@ -13787,7 +13787,7 @@ fresh	JJ
 must	MD
 be	VB
 solved	VBN
-first	RB
+first	JJ
 .	.
 
 A	DT
@@ -13923,7 +13923,7 @@ Soft	JJ
 Sell	NN
 Spots	NNS
 
-CALL	VB
+CALL	NNP
 IT	PRP
 un-advertising	NN
 .	.
@@ -13943,7 +13943,7 @@ who	WP
 want	VBP
 exposure	NN
 yet	RB
-shun	VB
+shun	VBP
 pushy	JJ
 ads	NNS
 .	.
@@ -14044,7 +14044,7 @@ Structures	NNP
 ''	''
 and	CC
 ``	``
-Building	VBG
+Building	NNP
 a	DT
 Place	NN
 to	IN
@@ -14153,7 +14153,7 @@ how	WRB
 much	JJ
 credibility	NN
 you	PRP
-gain	VBP
+gain	NN
 for	IN
 the	DT
 possible	JJ
@@ -14167,8 +14167,8 @@ Retailer	NN
 Sees	VBZ
 Pitfalls	NNS
 In	IN
-Environmental	JJ
-Push	NN
+Environmental	NNP
+Push	VBP
 
 HERE	RB
 'S	VBZ
@@ -14212,7 +14212,7 @@ distribute	VB
 pamphlets	NNS
 recommending	VBG
 products	NNS
-deemed	VBD
+deemed	VBN
 safe	JJ
 for	IN
 the	DT
@@ -14418,7 +14418,7 @@ Big	NNP
 Bear	NNP
 does	VBZ
 n't	RB
-care	VB
+care	NN
 for	IN
 disposable	JJ
 diapers	NNS
@@ -14528,7 +14528,7 @@ first	JJ
 and	CC
 James	NNP
 Garner	NNP
-second	NN
+second	JJ
 in	IN
 persuasiveness	NN
 as	IN
@@ -14569,7 +14569,7 @@ time	NN
 Health	NNP
 and	CC
 Human	NNP
-Services	NNP
+Services	NNPS
 Secretary	NNP
 Louis	NNP
 Sullivan	NNP
@@ -14612,7 +14612,7 @@ Everett	NNP
 Koop	NNP
 ,	,
 who	WP
-rattled	VBD
+rattled	JJ
 liberals	NNS
 and	CC
 conservatives	NNS
@@ -14663,7 +14663,7 @@ several	JJ
 task	NN
 forces	NNS
 on	IN
-acquired	JJ
+acquired	VBN
 immune	JJ
 deficiency	NN
 syndrome	NN
@@ -14689,7 +14689,7 @@ release	VB
 any	DT
 information	NN
 about	IN
-her	PRP
+her	PRP$
 .	.
 
 The	DT
@@ -14759,7 +14759,7 @@ Builders	NNP
 (	(
 NAHB	NNP
 )	)
-continue	VBP
+continue	VB
 to	TO
 pressure	VB
 Capitol	NNP
@@ -14790,7 +14790,7 @@ multifaceted	JJ
 housing	NN
 crisis	NN
 --	:
-reduced	JJ
+reduced	VBN
 affordability	NN
 of	IN
 homes	NNS
@@ -14800,7 +14800,7 @@ first	JJ
 time	NN
 buyers	NNS
 ,	,
-increased	JJ
+increased	VBN
 homelessness	NN
 ,	,
 and	CC
@@ -14827,7 +14827,7 @@ resources	NNS
 ''	''
 
 There	EX
-'s	VBZ
+'s	POS
 nothing	NN
 unusual	JJ
 about	IN
@@ -14862,8 +14862,8 @@ administration	NN
 proposal	NN
 to	TO
 take	VB
-over	IN
-all	DT
+over	RP
+all	PDT
 defense	NN
 housing	NN
 production	NN
@@ -14900,8 +14900,8 @@ amendment	NN
 Yet	RB
 on	IN
 matters	NNS
-close	RB
-to	IN
+close	VBP
+to	TO
 ,	,
 er	UH
 ,	,
@@ -15018,7 +15018,7 @@ the	DT
 NAHB	NNP
 remains	VBZ
 susceptible	JJ
-to	IN
+to	TO
 internal	JJ
 pressure	NN
 from	IN
@@ -15100,7 +15100,7 @@ even	RB
 eliminate	VB
 )	)
 FHA	NNP
-down	NN
+down	RB
 -	HYPH
 payment	NN
 requirements	NNS
@@ -15117,7 +15117,7 @@ mortgages	NNS
 expand	VB
 the	DT
 Veterans	NNP
-Affairs	NNP
+Affairs	NNPS
 Department	NNP
 loan	NN
 guarantee	NN
@@ -15137,7 +15137,7 @@ Administration	NNP
 FmHA	NNP
 )	)
 ;	:
-increase	VB
+increase	NN
 federal	JJ
 funding	NN
 and	CC
@@ -15169,7 +15169,7 @@ localities	NNS
 and	CC
 ``	``
 fully	RB
-fund	VB
+fund	NN
 ''	''
 the	DT
 McKinney	NNP
@@ -15252,7 +15252,7 @@ would	MD
 result	VB
 in	IN
 ``	``
-no	DT
+no	UH
 cost	NN
 to	IN
 the	DT
@@ -15303,7 +15303,7 @@ important	JJ
 ,	,
 housing	NN
 programs	NNS
-run	VBN
+run	VBP
 by	IN
 HUD	NNP
 ,	,
@@ -15344,7 +15344,7 @@ reserve	NN
 fund	NN
 ,	,
 fell	VBD
-to	IN
+to	TO
 minus	IN
 $	$
 2.9	CD
@@ -15391,7 +15391,7 @@ just	RB
 ended	VBN
 .	.
 
-All	DT
+All	PDT
 told	VBD
 ,	,
 the	DT
@@ -15424,7 +15424,7 @@ Live	NNP
 the	DT
 NAHB	NNP
 does	VBZ
-acknowledge	VB
+acknowledge	VBP
 that	IN
 ``	``
 of	IN
@@ -15512,7 +15512,7 @@ legislative	JJ
 program	NN
 --	:
 comparable	JJ
-to	IN
+to	TO
 ,	,
 say	UH
 ,	,
@@ -15549,7 +15549,7 @@ year	NN
 ,	,
 is	VBZ
 like	IN
-many	DT
+many	JJ
 other	JJ
 business	NN
 lobbies	NNS
@@ -15595,7 +15595,7 @@ of	IN
 major	JJ
 issues	NNS
 ,	,
-such	JJ
+such	PDT
 as	IN
 the	DT
 balanced	JJ
@@ -15667,7 +15667,7 @@ NAHB	NNP
 acknowledges	VBZ
 :	:
 ``	``
-Government	NNP
+Government	NN
 is	VBZ
 not	RB
 going	VBG
@@ -15686,7 +15686,7 @@ to	TO
 have	VB
 the	DT
 economy	NN
-working	NN
+working	VBG
 and	CC
 interest	NN
 rates	NNS
@@ -15694,7 +15694,7 @@ down	RB
 .	.
 ''	''
 
-More	JJR
+More	RBR
 money	NN
 for	IN
 HUD	NNP
@@ -15751,7 +15751,7 @@ fellow	NN
 
 (	(
 See	VB
-related	JJ
+related	VBN
 story	NN
 :	:
 ``	``
@@ -15807,7 +15807,7 @@ amending	VBG
 the	DT
 EC	NNP
 's	POS
-founding	JJ
+founding	NN
 Treaty	NNP
 of	IN
 Rome	NNP
@@ -15820,7 +15820,7 @@ sources	NNS
 in	IN
 Brussels	NNP
 ,	,
-most	JJS
+most	RBS
 EC	NNP
 leaders	NNS
 agree	VBP
@@ -15841,7 +15841,7 @@ make	VB
 a	DT
 declaration	NN
 on	IN
-that	DT
+that	WDT
 during	IN
 a	DT
 summit	NN
@@ -15990,7 +15990,7 @@ Germany	NNP
 is	VBZ
 still	RB
 committed	VBN
-to	IN
+to	TO
 EC	NNP
 unity	NN
 .	.
@@ -16118,7 +16118,7 @@ the	DT
 UAL	NNP
 buy	NN
 -	HYPH
-out	NN
+out	RP
 was	VBD
 collapsing	VBG
 .	.
@@ -16149,11 +16149,11 @@ cash	NN
 from	IN
 Japanese	NNP
 and	CC
-American	NNP
+American	JJ
 banks	NNS
 confirmed	VBD
 a	DT
-growing	JJ
+growing	VBG
 fear	NN
 among	IN
 arbitragers	NNS
@@ -16174,8 +16174,8 @@ Lots	NNS
 of	IN
 other	JJ
 entries	NNS
-made	VBN
-up	IN
+made	VBD
+up	RP
 the	DT
 parade	NN
 ,	,
@@ -16248,12 +16248,12 @@ the	DT
 music	NN
 that	IN
 others	NNS
-write	VBP
+write	NN
 .	.
 
 What	WP
 really	RB
-spooked	VBD
+spooked	VBN
 the	DT
 crowds	NNS
 along	IN
@@ -16382,7 +16382,7 @@ close	NN
 (	(
 Both	DT
 took	VBD
-further	JJ
+further	RBR
 hits	NNS
 yesterday	NN
 .	.
@@ -16497,7 +16497,7 @@ restructurings	NNS
 or	CC
 takeovers	NNS
 ,	,
-such	JJ
+such	PDT
 as	IN
 Resorts	NNP
 International	NNP
@@ -16596,7 +16596,7 @@ times	NNS
 
 These	DT
 are	VBP
-all	DT
+all	PDT
 market	NN
 excesses	NNS
 (	(
@@ -16610,7 +16610,7 @@ the	DT
 tax	NN
 code	NN
 gives	VBZ
-to	IN
+to	TO
 debt	NN
 over	IN
 equity	NN
@@ -16626,7 +16626,7 @@ the	DT
 market	NN
 reining	VBG
 them	PRP
-in	RP
+in	IN
 .	.
 
 Of	RB
@@ -16708,7 +16708,7 @@ makers	NNS
 ?	.
 
 After	IN
-all	DT
+all	PDT
 ,	,
 the	DT
 stock	NN
@@ -16762,9 +16762,9 @@ extent	NN
 that	IN
 Friday	NNP
 's	POS
-sell	NN
+sell	VB
 -	HYPH
-off	NN
+off	RP
 reflected	VBD
 a	DT
 sudden	JJ
@@ -16806,8 +16806,8 @@ economic	JJ
 interests	NNS
 are	VBP
 much	RB
-better	RB
-served	VBN
+better	RBR
+served	VBD
 allowing	VBG
 the	DT
 private	JJ
@@ -16888,7 +16888,7 @@ quickly	RB
 and	CC
 accurately	RB
 than	IN
-will	NN
+will	MD
 policy	NN
 makers	NNS
 ,	,
@@ -16996,7 +16996,7 @@ Washington	NNP
 
 If	IN
 you	PRP
-side	VBP
+side	NN
 with	IN
 the	DT
 arbitragers	NNS
@@ -17006,9 +17006,9 @@ raiders	NNS
 you	PRP
 clearly	RB
 have	VBP
-more	JJR
-to	TO
-fear	VB
+more	RBR
+to	IN
+fear	NN
 from	IN
 private	JJ
 investors	NNS
@@ -17095,7 +17095,7 @@ a	DT
 particular	JJ
 industry	NN
 ,	,
-such	JJ
+such	PDT
 as	IN
 the	DT
 airlines	NNS
@@ -17113,7 +17113,7 @@ amount	NN
 of	IN
 leverage	NN
 provides	VBZ
-both	DT
+both	PDT
 to	IN
 equity	NN
 markets	NNS
@@ -17142,15 +17142,15 @@ and	CC
 the	DT
 deficit	NN
 ,	,
-all	RB
+all	PDT
 of	IN
-them	DT
+them	PRP
 parades	NNS
 that	WDT
 seem	VBP
 never	RB
 to	TO
-end	VB
+end	NN
 .	.
 
 Mr.	NNP
@@ -17227,7 +17227,7 @@ minutes	NNS
 of	IN
 Tuesday	NNP
 's	POS
-trading	VBG
+trading	NN
 the	DT
 Nikkei	NNP
 index	NN
@@ -17248,7 +17248,7 @@ time	NN
 the	DT
 index	NN
 was	VBD
-up	RB
+up	RP
 435.11	CD
 points	NNS
 ,	,
@@ -17316,8 +17316,8 @@ New	NNP
 York	NNP
 .	.
 
-Other	NNP
-Asian	NNP
+Other	JJ
+Asian	JJ
 and	CC
 Pacific	NNP
 markets	NNS
@@ -17340,7 +17340,7 @@ market	NN
 crash	NN
 .	.
 
-All	DT
+All	PDT
 eyes	NNS
 were	VBD
 on	IN
@@ -17355,8 +17355,8 @@ the	DT
 first	JJ
 major	JJ
 market	NN
-to	IN
-trade	NN
+to	TO
+trade	VB
 since	IN
 Friday	NNP
 's	POS
@@ -17372,7 +17372,7 @@ Street	NNP
 But	CC
 rather	RB
 than	IN
-set	VB
+set	VBN
 the	DT
 tone	NN
 for	IN
@@ -17463,7 +17463,7 @@ see	VB
 until	IN
 trading	NN
 goes	VBZ
-around	RB
+around	RP
 through	IN
 Europe	NNP
 and	CC
@@ -17509,7 +17509,7 @@ scenes	NN
 to	TO
 do	VB
 just	RB
-that	RB
+that	IN
 .	.
 
 But	CC
@@ -17525,7 +17525,7 @@ presence	NN
 was	VBD
 never	RB
 overtly	RB
-felt	VBN
+felt	VBD
 .	.
 
 At	IN
@@ -17632,7 +17632,7 @@ midmorning	NN
 rebound	NN
 brought	VBD
 it	PRP
-back	VBP
+back	RP
 to	TO
 show	VB
 a	DT
@@ -18131,7 +18131,7 @@ Street	NNP
 decline	NN
 was	VBD
 ``	``
-well	RB
+well	UH
 within	IN
 the	DT
 range	NN
@@ -18181,7 +18181,7 @@ falling	VBG
 and	CC
 Singapore	NNP
 's	POS
-Straits	NNP
+Straits	NNPS
 Times	NNP
 Industrial	NNP
 Index	NNP
@@ -18252,7 +18252,7 @@ due	JJ
 to	IN
 local	JJ
 factors	NNS
-such	JJ
+such	PDT
 as	IN
 failed	JJ
 corporate	JJ
@@ -18297,7 +18297,7 @@ Kong	NNP
 .	.
 
 ``	``
-Markets	NNS
+Markets	NNPS
 in	IN
 this	DT
 region	NN
@@ -18351,7 +18351,7 @@ they	PRP
 are	VBP
 relatively	RB
 open	VB
-to	IN
+to	TO
 rapid	JJ
 cash	NN
 flows	NNS
@@ -18364,7 +18364,7 @@ the	DT
 region	NN
 's	POS
 next	JJ
-most	RBS
+most	JJS
 open	JJ
 market	NN
 ,	,
@@ -18443,17 +18443,17 @@ Monday	NNP
 decline	NN
 ,	,
 the	DT
-Straits	NNP
-Times	NNP
+Straits	NNPS
+Times	NNPS
 index	NN
 is	VBZ
-up	RB
+up	RP
 24	CD
 %	NN
 this	DT
 year	NN
 ,	,
-so	IN
+so	RB
 investors	NNS
 who	WP
 bailed	VBD
@@ -18517,7 +18517,7 @@ But	CC
 the	DT
 session	NN
 was	VBD
-orderly	RB
+orderly	JJ
 ,	,
 in	IN
 contrast	NN
@@ -18564,7 +18564,7 @@ bottom	NN
 yet	RB
 but	CC
 is	VBZ
-close	RB
+close	NN
 .	.
 
 ``	``
@@ -18573,7 +18573,7 @@ New	NNP
 York	NNP
 does	VBZ
 n't	RB
-collapse	VB
+collapse	NN
 ,	,
 I	PRP
 see	VBP
@@ -18606,7 +18606,7 @@ Australia	NNP
 ,	,
 Sydney	NNP
 's	POS
-All	NNP
+All	DT
 Ordinaries	NNP
 index	NN
 closed	VBD
@@ -18667,8 +18667,8 @@ like	JJ
 ''	''
 as	IN
 investors	NNS
-fled	VBN
-to	IN
+fled	VBD
+to	TO
 bluechip	JJ
 Australian	JJ
 stocks	NNS
@@ -18677,7 +18677,7 @@ shunned	VBD
 entrepreneurial	JJ
 companies	NNS
 they	PRP
-perceived	VBD
+perceived	VBN
 as	IN
 having	VBG
 any	DT
@@ -18726,7 +18726,7 @@ or	CC
 
 At	IN
 its	PRP$
-low	NN
+low	JJ
 ,	,
 shortly	RB
 before	IN
@@ -18736,8 +18736,8 @@ opened	VBD
 ,	,
 it	PRP
 was	VBD
-off	RB
-more	JJR
+off	RP
+more	RBR
 than	IN
 130	CD
 points	NNS
@@ -18745,7 +18745,7 @@ points	NNS
 
 The	DT
 Financial	NNP
-Times	NNP
+Times	NNPS
 30	CD
 -	HYPH
 share	NN
@@ -18827,7 +18827,7 @@ blue	JJ
 chip	NN
 shares	NNS
 down	RB
-as	RB
+as	IN
 much	JJ
 as	IN
 20	CD
@@ -18847,7 +18847,7 @@ many	JJ
 small	JJ
 investors	NNS
 held	VBN
-on	RP
+on	IN
 to	IN
 their	PRP$
 shares	NNS
@@ -18931,7 +18931,7 @@ is	VBZ
 reported	VBN
 to	TO
 have	VB
-said	VBN
+said	VBD
 once	RB
 that	IN
 if	IN
@@ -18969,9 +18969,9 @@ maybe	RB
 the	DT
 state	NN
 's	POS
-la	JJ
+la	FW
 -	HYPH
-la	JJ
+la	FW
 factions	NNS
 are	VBP
 starting	VBG
@@ -19044,7 +19044,7 @@ by	IN
 40	CD
 %	NN
 ,	,
-ban	VB
+ban	NN
 new	JJ
 offshore	JJ
 drilling	NN
@@ -19113,7 +19113,7 @@ Voters	NNP
 ,	,
 the	DT
 Natural	NNP
-Resources	NNP
+Resources	NNPS
 Defense	NNP
 Council	NNP
 ,	,
@@ -19143,12 +19143,12 @@ to	TO
 do	VB
 with	IN
 this	DT
-one	NN
+one	CD
 .	.
 
 Not	RB
-only	JJ
-Californians	NNS
+only	RB
+Californians	NNPS
 but	CC
 all	DT
 Americans	NNPS
@@ -19342,7 +19342,7 @@ Attorney	NNP
 General	NNP
 John	NNP
 Van	NNP
-de	NNP
+de	FW
 Kamp	NNP
 .	.
 
@@ -19355,11 +19355,11 @@ governor	NN
 
 Mr.	NNP
 Van	NNP
-de	NNP
+de	FW
 Kamp	NNP
 is	VBZ
 the	DT
-one	NN
+one	CD
 who	WP
 collected	VBD
 the	DT
@@ -19434,7 +19434,7 @@ it	PRP
 allows	VBZ
 Mr.	NNP
 Van	NNP
-de	NNP
+de	FW
 Kamp	NNP
 to	TO
 get	VB
@@ -19460,7 +19460,7 @@ spending	NN
 for	IN
 the	DT
 Van	NNP
-de	NNP
+de	FW
 Kamp	NNP
 initiative	NN
 (	(
@@ -19601,7 +19601,7 @@ things	NNS
 he	PRP
 does	VBZ
 n't	RB
-like	JJ
+like	VB
 .	.
 
 That	DT
@@ -19612,7 +19612,7 @@ and	CC
 such	JJ
 groups	NNS
 no	RB
-longer	RB
+longer	RBR
 would	MD
 have	VB
 to	TO
@@ -19632,7 +19632,7 @@ cost	NN
 
 Mr.	NNP
 Van	NNP
-de	NNP
+de	FW
 Kamp	NNP
 and	CC
 his	PRP$
@@ -19750,7 +19750,7 @@ on	IN
 the	DT
 state	NN
 's	POS
-less	RBS
+less	RBR
 affluent	JJ
 citizens	NNS
 in	IN
@@ -19776,7 +19776,7 @@ itself	PRP
 for	IN
 the	DT
 future	NN
-either	RB
+either	CC
 as	IN
 a	DT
 state	NN
@@ -19796,9 +19796,9 @@ led	VBN
 to	IN
 wherever	WRB
 its	PRP$
-la	JJ
+la	FW
 -	HYPH
-la	JJ
+la	FW
 activists	NNS
 want	VBP
 to	TO
@@ -19806,7 +19806,7 @@ take	VB
 it	PRP
 .	.
 
-First	RB
+First	NNP
 ,	,
 there	EX
 was	VBD
@@ -19980,7 +19980,7 @@ Nasdaq	NNP
 OTC	NNP
 index	NN
 closed	VBD
-down	RB
+down	RP
 6.31	CD
 to	IN
 460.98	CD
@@ -20139,8 +20139,8 @@ Board	NNP
 Everyone	NN
 was	VBD
 a	DT
-little	RB
-concerned	VBN
+little	JJ
+concerned	JJ
 about	IN
 the	DT
 general	JJ
@@ -20244,7 +20244,7 @@ Jones	NNP
 Industrial	NNP
 Average	NNP
 opened	VBD
-down	RB
+down	RP
 1.64	CD
 shortly	RB
 after	IN
@@ -20311,7 +20311,7 @@ of	IN
 late	JJ
 --	:
 opened	VBD
-down	RB
+down	RP
 2	CD
 3/4	CD
 to	IN
@@ -20347,13 +20347,13 @@ big	JJ
 tumble	NN
 .	.
 
-More	JJR
+More	RBR
 stocks	NNS
 opened	VBD
 over	IN
 the	DT
 ensuing	VBG
-half	NN
+half	PDT
 hour	NN
 ,	,
 as	IN
@@ -20391,7 +20391,7 @@ Then	RB
 to	TO
 make	VB
 matters	NNS
-worse	RBR
+worse	JJR
 ,	,
 computerized	JJ
 sell	NN
@@ -20416,7 +20416,7 @@ arbitrage	NN
 ,	,
 as	IN
 traders	NNS
-sold	VBD
+sold	VBN
 big	JJ
 baskets	NNS
 of	IN
@@ -20427,7 +20427,7 @@ stock	NN
 -	HYPH
 index	NN
 futures	NNS
-to	IN
+to	TO
 profit	NN
 from	IN
 the	DT
@@ -20471,8 +20471,8 @@ onslaught	NN
 of	IN
 the	DT
 program	NN
-selling	NN
-dashed	VBD
+selling	VBG
+dashed	VBN
 any	DT
 hopes	NNS
 that	IN
@@ -20528,9 +20528,9 @@ from	IN
 the	DT
 market	NN
 and	CC
-watched	JJ
+watched	VBN
 stocks	NNS
-fall	VBP
+fall	NN
 .	.
 
 Then	RB
@@ -20584,7 +20584,7 @@ had	VBD
 pushed	VBN
 stocks	NNS
 to	IN
-such	JJ
+such	PDT
 cheap	JJ
 values	NNS
 that	IN
@@ -20607,7 +20607,7 @@ program	NN
 traders	NNS
 were	VBD
 in	IN
-there	RB
+there	EX
 ,	,
 too	RB
 ,	,
@@ -20627,7 +20627,7 @@ programmers	NNS
 did	VBD
 n't	RB
 look	VB
-as	RB
+as	IN
 dominant	JJ
 on	IN
 the	DT
@@ -20710,7 +20710,7 @@ million	CD
 and	CC
 put	VB
 it	PRP
-in	RP
+in	IN
 ''	''
 the	DT
 market	NN
@@ -21209,7 +21209,7 @@ industrials	NNS
 ,	,
 did	VBD
 n't	RB
-lead	JJ
+lead	VB
 yesterday	NN
 's	POS
 big	JJ
@@ -21309,7 +21309,7 @@ buy	VB
 ,	,
 they	PRP
 came	VBD
-in	RP
+in	IN
 with	IN
 a	DT
 vengeance	NN
@@ -21337,8 +21337,8 @@ the	DT
 turnaround	NN
 was	VBD
 similar	JJ
-to	IN
-that	DT
+to	TO
+that	IN
 of	IN
 Terrible	NNP
 Tuesday	NNP
@@ -21369,7 +21369,7 @@ at	IN
 Prudential	NNP
 -	HYPH
 Bache	NNP
-Securities	NNP
+Securities	NNPS
 Inc	NNP
 .	.
 
@@ -21408,7 +21408,7 @@ traders	NNS
 and	CC
 brokers	NNS
 who	WP
-work	VBP
+work	NN
 with	IN
 them	PRP
 .	.
@@ -21436,7 +21436,7 @@ even	RB
 with	IN
 halts	NNS
 in	IN
-such	JJ
+such	PDT
 major	JJ
 blue	JJ
 -	HYPH
@@ -21525,7 +21525,7 @@ Market	NNP
 Index	NNP
 .	.
 
-No	DT
+No	UH
 sector	NN
 of	IN
 the	DT
@@ -21548,7 +21548,7 @@ the	DT
 Dow	NNP
 industrials	NNS
 '	POS
-high	NN
+high	JJ
 on	IN
 Oct.	NNP
 9	CD
@@ -21563,7 +21563,7 @@ performances	NNS
 have	VBP
 been	VBN
 turned	VBN
-in	RP
+in	IN
 by	IN
 real	JJ
 -	HYPH
@@ -21583,8 +21583,8 @@ And	CC
 yesterday	NN
 ,	,
 the	DT
-top	JJ
-performing	NN
+top	NN
+performing	VBG
 industry	NN
 group	NN
 was	VBD
@@ -21627,7 +21627,7 @@ the	DT
 UAL	NNP
 and	CC
 AMR	NNP
-tumbles	NNS
+tumbles	VBZ
 ,	,
 airlines	NNS
 were	VBD
@@ -21897,7 +21897,7 @@ said	VBD
 Program	NN
 trades	NNS
 make	VBP
-up	RB
+up	RP
 10	CD
 %	NN
 of	IN
@@ -21977,7 +21977,7 @@ said	VBD
 
 He	PRP
 said	VBD
-that	DT
+that	IN
 exchange	NN
 officials	NNS
 had	VBD
@@ -22041,7 +22041,7 @@ amid	IN
 a	DT
 flood	NN
 of	IN
-selling	NN
+selling	VBG
 by	IN
 other	JJ
 investors	NNS
@@ -22089,7 +22089,7 @@ judgment	NN
 They	PRP
 did	VBD
 n't	RB
-panic	VB
+panic	NN
 during	IN
 the	DT
 first	JJ
@@ -22254,8 +22254,8 @@ court	NN
 to	TO
 block	VB
 today	NN
-'s	POS
-scheduled	JJ
+'s	VBZ
+scheduled	VBN
 liftoff	NN
 long	RB
 enough	RB
@@ -22266,7 +22266,7 @@ ask	VB
 the	DT
 World	NNP
 Court	NNP
-to	IN
+to	TO
 ``	``
 order	NN
 ''	''
@@ -22327,7 +22327,7 @@ sue	VB
 for	IN
 fines	NNS
 against	IN
-all	DT
+all	PDT
 three	CD
 politico	JJ
 -	HYPH
@@ -22365,7 +22365,7 @@ continental	JJ
 U.S.	NNP
 and	CC
 on	IN
-all	DT
+all	PDT
 flights	NNS
 of	IN
 six	CD
@@ -22382,8 +22382,8 @@ The	DT
 restrictions	NNS
 would	MD
 cover	VB
-all	RB
-but	IN
+all	PDT
+but	CC
 a	DT
 small	JJ
 percentage	NN
@@ -22428,7 +22428,7 @@ largely	RB
 a	DT
 face	NN
 -	HYPH
-saving	NN
+saving	VBG
 concession	NN
 for	IN
 the	DT
@@ -22485,7 +22485,7 @@ compromise	NN
 was	VBD
 soon	RB
 agreed	VBN
-to	IN
+to	TO
 in	IN
 subsequent	JJ
 discussions	NNS
@@ -22519,7 +22519,7 @@ the	DT
 language	NN
 would	MD
 exempt	VB
-longer	JJR
+longer	RBR
 routes	NNS
 beginning	NN
 ,	,
@@ -22563,7 +22563,7 @@ position	NN
 as	IN
 a	DT
 Senate	NNP
-Appropriations	NNP
+Appropriations	NNPS
 subcommittee	NN
 chairman	NN
 to	TO
@@ -22585,7 +22585,7 @@ than	IN
 $	$
 26	CD
 billion	CD
-fiscal	IN
+fiscal	JJ
 1990	CD
 transportation	NN
 bill	NN
@@ -22614,7 +22614,7 @@ earmarked	VBN
 by	IN
 members	NNS
 as	IN
-well	NN
+well	RB
 as	IN
 funds	NNS
 sought	VBN
@@ -22660,7 +22660,7 @@ of	IN
 grower	NN
 states	NNS
 ,	,
-such	JJ
+such	PDT
 as	IN
 North	NNP
 Carolina	NNP
@@ -22903,7 +22903,7 @@ between	IN
 urban	JJ
 lawmakers	NNS
 representing	VBG
-established	JJ
+established	VBN
 airports	NNS
 in	IN
 Philadelphia	NNP
@@ -23275,7 +23275,7 @@ Warner	NNP
 Inc.	NNP
 's	POS
 Warner	NNP
-Communications	NNP
+Communications	NNPS
 Inc.	NNP
 so	IN
 they	PRP
@@ -23410,7 +23410,7 @@ and	CC
 Rainman	NNP
 ,	,
 ''	''
-as	RB
+as	IN
 well	RB
 as	IN
 the	DT
@@ -23482,7 +23482,7 @@ an	DT
 affiliate	NN
 of	IN
 Huntsman	NNP
-Holdings	NNP
+Holdings	NNPS
 ,	,
 acquire	VB
 Aristech	NNP
@@ -23543,7 +23543,7 @@ $	$
 to	IN
 $	$
 20.875	CD
-per	IN
+per	FW
 share	NN
 .	.
 
@@ -23575,7 +23575,7 @@ aid	NN
 to	IN
 Poland	NNP
 ,	,
-so	IN
+so	RB
 it	PRP
 is	VBZ
 getting	VBG
@@ -23661,7 +23661,7 @@ staffers	NNS
 that	WDT
 helps	VBZ
 create	VB
-such	JJ
+such	PDT
 legislative	JJ
 atrocities	NNS
 as	IN
@@ -23730,7 +23730,7 @@ and	CC
 Wedgwood	NNP
 china	NN
 ,	,
-reported	VBN
+reported	VBD
 that	IN
 its	PRP$
 pretax	JJ
@@ -23796,7 +23796,7 @@ yesterday	NN
 Waterford	NNP
 shares	NNS
 were	VBD
-down	RB
+down	RP
 15	CD
 pence	NN
 at	IN
@@ -24006,11 +24006,11 @@ Co	NNP
 Friday	NNP
 's	POS
 flight	NN
-to	IN
+to	TO
 quality	NN
 was	VBD
 no	RB
-longer	RB
+longer	RBR
 needed	VBN
 once	IN
 the	DT
@@ -24066,7 +24066,7 @@ buy	VB
 high	JJ
 -	HYPH
 quality	NN
-Treasury	NN
+Treasury	NNP
 bonds	NNS
 ,	,
 which	WDT
@@ -24162,7 +24162,7 @@ funds	NNS
 rate	NN
 to	TO
 drift	VB
-as	RB
+as	IN
 low	JJ
 as	IN
 8	CD
@@ -24185,8 +24185,8 @@ between	IN
 banks	NNS
 ,	,
 slid	VBD
-to	IN
-about	RB
+to	TO
+about	IN
 8	CD
 3/4	CD
 %	NN
@@ -24284,7 +24284,7 @@ about	IN
 1	CD
 3/4	CD
 points	NNS
-lower	RBR
+lower	JJR
 ,	,
 or	CC
 down	RB
@@ -24306,10 +24306,10 @@ even	RB
 more	RBR
 evident	JJ
 among	IN
-shorter	JJ
+shorter	JJR
 -	HYPH
 term	NN
-Treasury	NN
+Treasury	NNP
 securities	NNS
 .	.
 
@@ -24319,7 +24319,7 @@ bill	NN
 rates	NNS
 plummeted	VBD
 as	RB
-much	JJ
+much	RB
 as	IN
 0.70	CD
 percentage	NN
@@ -24329,7 +24329,7 @@ Friday	NNP
 ,	,
 they	PRP
 gave	VBD
-back	RB
+back	RP
 three	CD
 -	HYPH
 fourths	NNS
@@ -24348,7 +24348,7 @@ on	IN
 three	CD
 -	HYPH
 month	NN
-Treasury	NN
+Treasury	NNP
 bills	NNS
 ,	,
 for	IN
@@ -24417,7 +24417,7 @@ Junk	NN
 bonds	NNS
 opened	VBD
 as	RB
-much	JJ
+much	RB
 as	IN
 four	CD
 points	NNS
@@ -24479,7 +24479,7 @@ the	DT
 session	NN
 when	WRB
 prices	NNS
-hit	VBP
+hit	VBD
 severely	RB
 depressed	JJ
 levels	NNS
@@ -24518,7 +24518,7 @@ economist	NN
 at	IN
 Moody	NNP
 's	POS
-Investors	NNP
+Investors	NNPS
 Service	NNP
 Inc	NNP
 .	.
@@ -24590,7 +24590,7 @@ modestly	RB
 higher	JJR
 .	.
 
-Many	DT
+Many	PDT
 U.S.	NNP
 trading	NN
 operations	NNS
@@ -24681,13 +24681,13 @@ volatile	JJ
 ``	``
 We	PRP
 went	VBD
-down	RB
+down	RP
 3/4	CD
 point	NN
 in	IN
 10	CD
 minutes	NNS
-right	RB
+right	NN
 before	IN
 lunch	NN
 ,	,
@@ -24696,7 +24696,7 @@ after	IN
 lunch	NN
 we	PRP
 went	VBD
-up	RB
+up	RP
 3/4	CD
 point	NN
 in	IN
@@ -24795,7 +24795,7 @@ is	VBZ
 expected	VBN
 to	TO
 have	VB
-declined	VBN
+declined	VBD
 0.2	CD
 %	NN
 ,	,
@@ -24884,7 +24884,7 @@ Federal	NNP
 Home	NNP
 Loan	NNP
 Bank	NNP
-prices	VBZ
+prices	NNS
 a	DT
 $	$
 2.3	CD
@@ -24896,7 +24896,7 @@ one	CD
 year	NN
 ,	,
 three	CD
--	HYPH
+-	SYM
 year	NN
 ,	,
 five	CD
@@ -25125,7 +25125,7 @@ the	DT
 government	NN
 's	POS
 weekly	JJ
-Treasury	NN
+Treasury	NNP
 bill	NN
 auction	NN
 .	.
@@ -25139,7 +25139,7 @@ new	JJ
 three	CD
 -	HYPH
 month	NN
-Treasury	NN
+Treasury	NNP
 bills	NNS
 was	VBD
 7.37	CD
@@ -25248,7 +25248,7 @@ while	IN
 the	DT
 coupon	NN
 -	HYPH
-equivalent	NN
+equivalent	JJ
 yield	NN
 is	VBZ
 based	VBN
@@ -25339,7 +25339,7 @@ issues	NNS
 --	:
 Japan	NNP
 's	POS
-No.	NNP
+No.	NN
 111	CD
 4.6	CD
 %	NN
@@ -25516,7 +25516,7 @@ Friday	NNP
 %	NN
 securities	NNS
 were	VBD
-down	RB
+down	RP
 27/32	CD
 at	IN
 100	CD
@@ -25559,13 +25559,13 @@ mortgage	NN
 issues	NNS
 gained	VBD
 as	RB
-much	JJ
+much	RB
 as	IN
 1	CD
 5/32	CD
 .	.
 
-Late	JJ
+Late	RB
 yesterday	NN
 Ginnie	NNP
 Mae	NNP
@@ -25581,7 +25581,7 @@ a	DT
 12	CD
 -	HYPH
 year	NN
-average	NN
+average	JJ
 life	NN
 assumption	NN
 ,	,
@@ -25660,7 +25660,7 @@ originators	NNS
 which	WDT
 are	VBP
 producing	VBG
-increased	JJ
+increased	VBN
 amounts	NNS
 of	IN
 fixed	JJ
@@ -25694,7 +25694,7 @@ Rebounding	VBG
 stocks	NNS
 and	CC
 weaker	JJR
-Treasury	NN
+Treasury	NNP
 prices	NNS
 drove	VBD
 municipal	JJ
@@ -25716,7 +25716,7 @@ left	VBD
 municipal	JJ
 dollar	NN
 bonds	NNS
-close	RB
+close	NN
 to	IN
 where	WRB
 they	PRP
@@ -25942,7 +25942,7 @@ issue	NN
 of	IN
 2027	CD
 was	VBD
-down	RB
+down	RP
 3/4	CD
 at	IN
 99	CD
@@ -26397,7 +26397,7 @@ instance	NN
 totaled	VBD
 184.74	CD
 billion	CD
-yen	NNS
+yen	NN
 in	IN
 the	DT
 12	CD
@@ -26438,7 +26438,7 @@ retained	VBD
 Merrill	NNP
 Lynch	NNP
 Capital	NNP
-Markets	NNP
+Markets	NNPS
 to	TO
 sell	VB
 its	PRP$
@@ -26813,8 +26813,8 @@ and	CC
 other	JJ
 materials	NNS
 fell	VBD
-to	IN
-about	RB
+to	TO
+about	IN
 $	$
 265	CD
 million	CD
@@ -26906,7 +26906,7 @@ third	JJ
 quarter	NN
 results	NNS
 reflect	VBP
-continued	JJ
+continued	VBN
 improvements	NNS
 in	IN
 productivity	NN
@@ -26919,17 +26919,17 @@ He	PRP
 said	VBD
 capital	NN
 spending	NN
-next	IN
+next	JJ
 year	NN
 will	MD
 rise	VB
-to	IN
-about	RB
+to	TO
+about	IN
 $	$
 45	CD
 million	CD
 from	IN
-about	RB
+about	IN
 $	$
 35	CD
 million	CD
@@ -27086,9 +27086,9 @@ have	VB
 to	TO
 be	VB
 extended	VBN
-further	JJ
-to	TO
-complete	VB
+further	RBR
+to	IN
+complete	JJ
 financing	NN
 arrangements	NNS
 .	.
@@ -27116,7 +27116,7 @@ Nov.	NNP
 The	DT
 offer	NN
 ,	,
-made	VBD
+made	VBN
 June	NNP
 1	CD
 ,	,
@@ -27144,7 +27144,7 @@ $	$
 million	CD
 ,	,
 for	IN
-as	RB
+as	IN
 many	JJ
 as	IN
 14.9	CD
@@ -27167,7 +27167,7 @@ U.S.	NNP
 Banknote	NNP
 said	VBD
 that	IN
-as	RB
+as	IN
 of	IN
 Oct.	NNP
 13	CD
@@ -27183,7 +27183,7 @@ about	RB
 of	IN
 the	DT
 fully	RB
-diluted	JJ
+diluted	VBN
 shares	NNS
 outstanding	JJ
 ,	,
@@ -27383,7 +27383,7 @@ trademark	NN
 which	WDT
 Gitano	NNP
 recently	RB
-acquired	VBD
+acquired	VBN
 .	.
 
 Enron	NNP
@@ -27403,7 +27403,7 @@ newly	RB
 formed	VBN
 Enron	NNP
 NGL	NNP
-Partners	NNP
+Partners	NNPS
 L.P.	NNP
 master	NN
 limited	JJ
@@ -27490,7 +27490,7 @@ units	NNS
 it	PRP
 will	MD
 offer	VB
-to	IN
+to	TO
 6,930,000	CD
 from	IN
 5,500,000	CD
@@ -27614,7 +27614,7 @@ vehicle	NN
 ,	,
 said	VBD
 that	IN
-as	RB
+as	IN
 of	IN
 the	DT
 close	NN
@@ -27652,7 +27652,7 @@ shares	NNS
 on	IN
 a	DT
 fully	RB
-diluted	JJ
+diluted	VBN
 basis	NN
 .	.
 
@@ -27693,7 +27693,7 @@ financing	NN
 commitments	NNS
 ,	,
 which	WDT
-total	VBP
+total	NN
 about	IN
 $	$
 240	CD
@@ -27730,7 +27730,7 @@ general	JJ
 partner	NN
 in	IN
 Rose	NNP
-Partners	NNP
+Partners	NNPS
 .	.
 
 In	IN
@@ -27793,7 +27793,7 @@ here	RB
 
 A	LS
 .	.
-manual	JJ
+manual	NN
 typewriters	NNS
 ,	,
 B	LS
@@ -27805,7 +27805,7 @@ and	CC
 white	JJ
 snapshots	NNS
 ,	,
-C	NNP
+C	LS
 .	.
 radio	NN
 adventure	NN
@@ -27824,7 +27824,7 @@ snapshots	NNS
 ,	,
 you	PRP
 're	VBP
-right	RB
+right	NN
 .	.
 
 After	IN
@@ -27873,7 +27873,7 @@ to	IN
 shooting	VBG
 only	RB
 in	IN
-color	JJ
+color	NN
 report	NN
 a	DT
 rush	NN
@@ -28091,7 +28091,7 @@ Kodak	NNP
 ,	,
 which	WDT
 largely	RB
-ignored	VBD
+ignored	VBN
 the	DT
 market	NN
 for	IN
@@ -28105,7 +28105,7 @@ white	JJ
 film	NN
 sales	NNS
 now	RB
-account	VBP
+account	NN
 for	IN
 nearly	RB
 15	CD
@@ -28142,8 +28142,8 @@ photographic	JJ
 giant	NN
 recently	RB
 began	VBD
-marketing	VBG
-T	NNP
+marketing	NN
+T	NN
 -	HYPH
 Max	NNP
 3200	CD
@@ -28237,7 +28237,7 @@ paper	NN
 that	WDT
 's	VBZ
 geared	VBN
-to	IN
+to	TO
 consumers	NNS
 and	CC
 will	MD
@@ -28270,12 +28270,12 @@ a	DT
 long	JJ
 time	NN
 ago	RB
-but	IN
+but	CC
 the	DT
 market	NN
 was	VBD
 n't	RB
-there	RB
+there	EX
 then	RB
 ,	,
 ''	''
@@ -28388,9 +28388,9 @@ photographed	VBN
 in	IN
 color	NN
 ,	,
-black	NN
+black	JJ
 and	CC
-white	NN
+white	JJ
 seems	VBZ
 eye	NN
 -	HYPH
@@ -28559,7 +28559,7 @@ ads	NNS
 from	IN
 the	DT
 color	NN
-spreads	NNS
+spreads	VBZ
 of	IN
 competitors	NNS
 .	.
@@ -28584,7 +28584,7 @@ says	VBZ
 and	CC
 black	JJ
 and	CC
-white	NN
+white	JJ
 allows	VBZ
 you	PRP
 to	TO
@@ -28638,7 +28638,7 @@ Companies	NNS
 feel	VBP
 black	JJ
 and	CC
-white	JJ
+white	NN
 will	MD
 convey	VB
 a	DT
@@ -28716,7 +28716,7 @@ can	MD
 make	VB
 housewives	NNS
 look	VBP
-like	JJ
+like	IN
 stars	NNS
 ,	,
 ''	''
@@ -28726,7 +28726,7 @@ Perrin	NNP
 .	.
 
 His	PRP$
-On	NNP
+On	IN
 -	HYPH
 Broadway	NNP
 Photography	NNP
@@ -28765,7 +28765,7 @@ says	VBZ
 she	PRP
 spurned	VBD
 a	DT
-color	JJ
+color	NN
 portrait	NN
 for	IN
 black	JJ
@@ -28876,12 +28876,12 @@ a	DT
 little	JJ
 less	JJR
 than	IN
-color	JJ
+color	NN
 film	NN
 ,	,
 and	CC
 processing	NN
-costs	VBZ
+costs	NNS
 the	DT
 same	JJ
 .	.
@@ -28919,7 +28919,7 @@ for	IN
 example	NN
 ,	,
 recently	RB
-introduced	VBD
+introduced	VBN
 a	DT
 black	JJ
 -	HYPH
@@ -28933,7 +28933,7 @@ be	VB
 processed	VBN
 quickly	RB
 by	IN
-color	JJ
+color	NN
 labs	NNS
 .	.
 
@@ -29120,7 +29120,7 @@ believe	VBP
 the	DT
 resurgence	NN
 of	IN
-black	NN
+black	JJ
 and	CC
 white	NN
 is	VBZ
@@ -29141,7 +29141,7 @@ photography	NN
 more	JJR
 newspapers	NNS
 turning	VBG
-to	IN
+to	TO
 color	NN
 on	IN
 their	PRP$
@@ -29153,7 +29153,7 @@ in	IN
 the	DT
 quality	NN
 of	IN
-color	JJ
+color	NN
 prints	NNS
 .	.
 
@@ -29186,13 +29186,13 @@ Institute	NNP
 
 ``	``
 The	DT
-color	JJ
+color	NN
 print	NN
 today	NN
 is	VBZ
 far	RB
 superior	JJ
-to	IN
+to	TO
 prints	NNS
 of	IN
 10	CD
@@ -29242,7 +29242,7 @@ photography	NN
 150th	JJ
 anniversary	NN
 ,	,
-all	RB
+all	PDT
 were	VBD
 black	JJ
 and	CC
@@ -29258,7 +29258,7 @@ classic	JJ
 spirit	NN
 and	CC
 carries	VBZ
-over	RB
+over	RP
 emotionally	RB
 ,	,
 ''	''
@@ -29347,7 +29347,7 @@ Calif.	NNP
 company	NN
 also	RB
 attributed	VBD
-improved	JJ
+improved	VBN
 performance	NN
 to	IN
 a	DT
@@ -29516,7 +29516,7 @@ examining	VBG
 the	DT
 offer	NN
 ,	,
-submitted	VBD
+submitted	VBN
 last	JJ
 Friday	NNP
 ,	,
@@ -29550,7 +29550,7 @@ companies	NNS
 
 The	DT
 spokesman	NN
-further	RB
+further	RBR
 said	VBD
 that	IN
 at	RB
@@ -29738,7 +29738,7 @@ contrast	NN
 the	DT
 Commerce	NNP
 Department	NNP
-'s	VBZ
+'s	POS
 widely	RB
 followed	VBN
 index	NN
@@ -29747,7 +29747,7 @@ leading	JJ
 indicators	NNS
 ,	,
 while	IN
-up	NN
+up	RB
 in	IN
 August	NNP
 ,	,
@@ -29881,7 +29881,7 @@ likely	JJ
 .	.
 
 ``	``
-No	DT
+No	UH
 meeting	NN
 is	VBZ
 scheduled	VBN
@@ -29936,7 +29936,7 @@ and	CC
 next	JJ
 year	NN
 as	IN
-well	NN
+well	RB
 .	.
 
 They	PRP
@@ -30000,7 +30000,7 @@ the	DT
 full	JJ
 post-World	JJ
 War	NNP
-II	NNP
+II	CD
 era	NN
 ,	,
 the	DT
@@ -30113,7 +30113,7 @@ then	RB
 fell	VBD
 steadily	RB
 up	RB
-to	IN
+to	TO
 and	CC
 through	IN
 the	DT
@@ -30219,7 +30219,7 @@ a	DT
 ratio	NN
 of	IN
 prices	NNS
-to	IN
+to	TO
 unit	NN
 labor	NN
 costs	NNS
@@ -30300,7 +30300,7 @@ turns	NNS
 .	.
 ''	''
 
-As	RB
+As	IN
 recently	RB
 as	IN
 1975	CD
@@ -30343,7 +30343,7 @@ indicators	NNS
 that	WDT
 then	RB
 made	VBN
-up	IN
+up	RP
 the	DT
 Commerce	NNP
 index	NN
@@ -30392,10 +30392,10 @@ Columbia	NNP
 center	NN
 claim	NN
 ,	,
-because	RB
+because	IN
 of	IN
 the	DT
-growing	JJ
+growing	VBG
 impact	NN
 of	IN
 international	JJ
@@ -30408,7 +30408,7 @@ have	VBP
 become	VBN
 more	RBR
 sensitive	JJ
-to	IN
+to	TO
 factors	NNS
 not	RB
 directly	RB
@@ -30453,7 +30453,7 @@ that	IN
 the	DT
 rise	NN
 of	IN
-such	JJ
+such	PDT
 computer	NN
 -	HYPH
 based	VBN
@@ -30637,7 +30637,7 @@ three	CD
 production	NN
 units	NNS
 in	IN
-southwest	JJ
+southwest	JJS
 Germany	NNP
 ,	,
 and	CC
@@ -30689,7 +30689,7 @@ market	NN
 
 Moody	NNP
 's	POS
-Investors	NNP
+Investors	NNPS
 Service	NNP
 Inc.	NNP
 said	VBD
@@ -30709,11 +30709,11 @@ debt	NN
 of	IN
 this	DT
 thrift	NN
-holding	NN
+holding	VBG
 company	NN
 ,	,
-to	IN
-C	NNP
+to	TO
+C	NN
 from	IN
 Ca	NNP
 ,	,
@@ -30795,7 +30795,7 @@ Miami	NNP
 
 Moody	NNP
 's	POS
-Investors	NNP
+Investors	NNPS
 Service	NNP
 Inc.	NNP
 downgraded	VBD
@@ -30807,11 +30807,11 @@ subordinated	JJ
 debt	NN
 of	IN
 CenTrust	NNP
-to	IN
+to	TO
 Caa	NN
 from	IN
 B	NNP
--	HYPH
+-	SYM
 3	CD
 .	.
 
@@ -30829,7 +30829,7 @@ term	NN
 deposits	NNS
 to	IN
 B	NNP
--	HYPH
+-	SYM
 3	CD
 from	IN
 Ba	NN
@@ -30839,8 +30839,8 @@ and	CC
 for	IN
 preferred	JJ
 stock	NN
-to	IN
-Ca	NNP
+to	TO
+Ca	NN
 from	IN
 Caa	NNP
 .	.
@@ -30932,7 +30932,7 @@ Black	NNP
 Monday	NNP
 as	IN
 prices	NNS
-recovered	VBN
+recovered	VBD
 from	IN
 an	DT
 early	JJ
@@ -30954,7 +30954,7 @@ Dow	NNP
 Jones	NNP
 industrials	NNS
 closed	VBD
-up	RB
+up	RP
 88.12	CD
 points	NNS
 ,	,
@@ -30983,9 +30983,9 @@ morning	NN
 
 The	DT
 rally	NN
-erased	VBN
-about	IN
-half	NN
+erased	VBD
+about	RB
+half	PDT
 of	IN
 Friday	NNP
 's	POS
@@ -31042,7 +31042,7 @@ Tokyo	NNP
 stock	NN
 prices	NNS
 bounced	VBD
-back	RB
+back	RP
 in	IN
 early	JJ
 trading	NN
@@ -31137,8 +31137,8 @@ of	IN
 airlines	NNS
 would	MD
 be	VB
-subject	NN
-to	IN
+subject	JJ
+to	TO
 approval	NN
 by	IN
 the	DT
@@ -31166,7 +31166,7 @@ third	JJ
 quarter	NN
 ,	,
 slightly	RB
-more	JJR
+more	RBR
 than	IN
 expected	VBN
 .	.
@@ -31231,12 +31231,12 @@ coming	VBG
 from	IN
 the	DT
 Big	NNP
-Three	NNP
+Three	CD
 .	.
 
 Output	NN
 at	IN
-Japanese	NNP
+Japanese	JJ
 -	HYPH
 owned	VBN
 and	CC
@@ -31415,7 +31415,7 @@ PaineWebber	NNP
 had	VBD
 a	DT
 decline	NN
-due	IN
+due	JJ
 to	IN
 a	DT
 year	NN
@@ -31512,7 +31512,7 @@ its	PRP$
 presence	NN
 in	IN
 the	DT
-growing	JJ
+growing	VBG
 wholesale	JJ
 -	HYPH
 store	NN
@@ -31540,7 +31540,7 @@ up	RB
 transportation	NN
 1304.23	CD
 ,	,
-off	RB
+off	IN
 102.06	CD
 ;	:
 utilities	NNS
@@ -31559,7 +31559,7 @@ Treasury	NNP
 index	NN
 3393.51	CD
 ,	,
-off	RB
+off	RP
 
 Commodities	NNS
 :	:
@@ -31569,7 +31569,7 @@ futures	NNS
 index	NN
 129.72	CD
 ,	,
-off	RB
+off	IN
 0.15	CD
 ;	:
 spot	NN
@@ -31626,8 +31626,8 @@ actual	JJ
 transactions	NNS
 .	.
 
-PRIME	NNP
-RATE	NNP
+PRIME	JJ
+RATE	NN
 :	:
 10	CD
 1/2	CD
@@ -31666,7 +31666,7 @@ low	NN
 5/8	CD
 %	NN
 near	IN
-closing	NN
+closing	VBG
 bid	NN
 ,	,
 8	CD
@@ -31756,7 +31756,7 @@ placed	VBD
 directly	RB
 by	IN
 General	NNP
-Motors	NNP
+Motors	NNPS
 Acceptance	NNP
 Corp.	NNP
 :	:
@@ -31846,9 +31846,9 @@ days	NNS
 days	NNS
 .	.
 
-CERTIFICATES	NNS
+CERTIFICATES	NNPS
 OF	IN
-DEPOSIT	NNP
+DEPOSIT	NN
 :	:
 8.05	CD
 %	NN
@@ -31937,7 +31937,7 @@ months	NNS
 .	.
 
 BANKERS	NNPS
-ACCEPTANCES	NNPS
+ACCEPTANCES	NNS
 :	:
 8.40	CD
 %	NN
@@ -32086,7 +32086,7 @@ year	NN
 The	DT
 average	NN
 of	IN
-interbank	RB
+interbank	NN
 offered	VBN
 rates	NNS
 for	IN
@@ -32383,7 +32383,7 @@ market	NN
 for	IN
 reduced	JJ
 instruction	NN
-set	NN
+set	VBN
 computing	NN
 ,	,
 or	CC
@@ -32418,7 +32418,7 @@ the	DT
 heart	NN
 of	IN
 IBM	NNP
--	HYPH
+-	SYM
 compatible	JJ
 personal	JJ
 computers	NNS
@@ -32547,7 +32547,7 @@ from	IN
 closely	RB
 held	VBN
 Sterile	NNP
-Products	NNP
+Products	NNPS
 Corp.	NNP
 for	IN
 $	$
@@ -32579,7 +32579,7 @@ earnings	NNS
 in	IN
 1990	CD
 and	CC
-beyond	RB
+beyond	IN
 .	.
 ''	''
 
@@ -32618,7 +32618,7 @@ trade	NN
 name	NN
 ACCO	NNP
 and	CC
-supplies	VBZ
+supplies	NNS
 the	DT
 medical	JJ
 and	CC
@@ -32670,14 +32670,14 @@ concern	NN
 ,	,
 said	VBD
 SHV	NNP
-Holdings	NNP
+Holdings	NNPS
 N.V.	NNP
 of	IN
 the	DT
 Netherlands	NNP
 has	VBZ
 built	VBN
-up	IN
+up	RP
 a	DT
 6.7	CD
 %	NN
@@ -32829,7 +32829,7 @@ Builders	NNP
 '	POS
 Hardware	NNP
 Group	NNP
-to	IN
+to	TO
 closely	RB
 held	VBN
 Nalcor	NNP
@@ -32849,7 +32849,7 @@ disclosed	VBN
 but	CC
 a	DT
 J.P.	NNP
-Industries	NNP
+Industries	NNPS
 spokesman	NN
 said	VBD
 the	DT
@@ -33034,7 +33034,7 @@ year	NN
 earlier	RBR
 .	.
 
-Operating	NN
+Operating	VBG
 revenue	NN
 rose	VBD
 13	CD
@@ -33176,7 +33176,7 @@ new	JJ
 group	NN
 will	MD
 comprise	VB
-all	RB
+all	PDT
 of	IN
 United	NNP
 Biscuit	NNP
@@ -33278,7 +33278,7 @@ deputy	JJ
 chairman	NN
 and	CC
 group	NN
-chief	NN
+chief	JJ
 executive	NN
 .	.
 
@@ -33319,7 +33319,7 @@ This	DT
 is	VBZ
 the	DT
 place	NN
-that	IN
+that	WDT
 world	NN
 opinion	NN
 has	VBZ
@@ -33388,7 +33388,7 @@ SWAPO	NNP
 
 Shortly	RB
 after	IN
-that	DT
+that	WDT
 ,	,
 Mr.	NNP
 O'Linn	NNP
@@ -33459,7 +33459,7 @@ affair	NN
 does	VBZ
 n't	RB
 bode	VB
-well	RB
+well	UH
 for	IN
 the	DT
 future	NN
@@ -33510,7 +33510,7 @@ Namibian	JJ
 guerrillas	NNS
 were	VBD
 above	IN
-all	DT
+all	PDT
 else	RB
 the	DT
 victims	NNS
@@ -33527,7 +33527,7 @@ has	VBZ
 enjoyed	VBN
 favorable	JJ
 Western	JJ
-media	NN
+media	NNS
 treatment	NN
 ever	RB
 since	IN
@@ -33706,13 +33706,13 @@ others	NNS
 when	WRB
 he	PRP
 returned	VBD
-to	IN
+to	TO
 Namibia	NNP
 this	DT
 month	NN
 .	.
 
-Both	CC
+Both	PDT
 the	DT
 State	NNP
 Department	NNP
@@ -33804,7 +33804,7 @@ and	CC
 the	DT
 human	JJ
 -	HYPH
-rights	NN
+rights	NNS
 community	NN
 should	MD
 insist	VB
@@ -33834,7 +33834,7 @@ investigates	VBZ
 election	NN
 complaints	NNS
 from	IN
-all	DT
+all	PDT
 sides	NNS
 .	.
 
@@ -33863,7 +33863,7 @@ market	NN
 's	POS
 influence	NN
 at	IN
-first	RB
+first	JJ
 created	VBN
 nervousness	NN
 .	.
@@ -33874,7 +33874,7 @@ however	RB
 ,	,
 it	PRP
 became	VBD
-more	JJR
+more	RBR
 of	IN
 an	DT
 undercurrent	NN
@@ -33886,7 +33886,7 @@ as	IN
 individual	JJ
 markets	NNS
 reacted	VBD
-more	JJR
+more	RBR
 to	IN
 their	PRP$
 own	JJ
@@ -33913,7 +33913,7 @@ the	DT
 dollar	NN
 ,	,
 rising	VBG
-early	RB
+early	JJ
 in	IN
 the	DT
 day	NN
@@ -34040,7 +34040,7 @@ rose	VBD
 slightly	RB
 .	.
 
-Livestock	NN
+Livestock	NNP
 and	CC
 meat	NN
 prices	NNS
@@ -34071,7 +34071,7 @@ yesterday	NN
 PRECIOUS	JJ
 METALS	NNS
 :	:
-Futures	NNP
+Futures	NNPS
 prices	NNS
 were	VBD
 moderately	RB
@@ -34149,7 +34149,7 @@ $	$
 December	NNP
 silver	NN
 was	VBD
-up	RB
+up	RP
 2.3	CD
 cents	NNS
 an	DT
@@ -34168,7 +34168,7 @@ industrial	JJ
 metal	NN
 ,	,
 easing	VBG
-early	RB
+early	JJ
 on	IN
 concern	NN
 over	IN
@@ -34232,7 +34232,7 @@ day	NN
 nose	NN
 dive	NN
 ,	,
-so	IN
+so	RB
 it	PRP
 could	MD
 n't	RB
@@ -34281,8 +34281,8 @@ much	RB
 as	IN
 $	$
 8.70	CD
-to	IN
-as	RB
+to	TO
+as	IN
 high	JJ
 as	IN
 $	$
@@ -34290,14 +34290,14 @@ $	$
 ,	,
 and	CC
 the	DT
-more	RBR
+more	JJR
 deferred	JJ
 positions	NNS
 ,	,
 due	JJ
 to	TO
 mature	VB
-as	RB
+as	IN
 late	JJ
 as	IN
 March	NNP
@@ -34329,8 +34329,8 @@ further	JJ
 gains	NNS
 ,	,
 rising	VBG
-to	IN
-as	RB
+to	TO
+as	IN
 high	JJ
 as	IN
 $	$
@@ -34356,13 +34356,13 @@ almost	RB
 $	$
 10	CD
 of	IN
-that	DT
+that	WDT
 at	IN
 the	DT
 close	NN
 .	.
 
-Yesterday	NNP
+Yesterday	NN
 's	POS
 October	NNP
 gain	NN
@@ -34373,7 +34373,7 @@ was	VBD
 miniscule	NN
 compared	VBN
 with	IN
-that	DT
+that	WDT
 .	.
 
 One	CD
@@ -34653,7 +34653,7 @@ headed	VBN
 up	RP
 on	IN
 expectations	NNS
-that	IN
+that	WDT
 world	NN
 oil	NN
 demand	NN
@@ -34691,7 +34691,7 @@ any	DT
 bearish	JJ
 indicator	NN
 ,	,
-such	JJ
+such	PDT
 as	IN
 Friday	NNP
 's	POS
@@ -34709,10 +34709,10 @@ the	DT
 oil	NN
 markets	NNS
 as	IN
-well	NN
+well	RB
 .	.
 
-Indeed	RB
+Indeed	UH
 ,	,
 after	IN
 reacting	VBG
@@ -34729,7 +34729,7 @@ plummet	NN
 futures	NNS
 prices	NNS
 firmed	VBD
-up	RB
+up	RP
 again	RB
 as	IN
 traders	NNS
@@ -34748,7 +34748,7 @@ yesterday	NN
 COPPER	NNP
 :	:
 
-Futures	NNP
+Futures	NNPS
 prices	NNS
 fell	VBD
 and	CC
@@ -34897,7 +34897,7 @@ hurdle	NN
 ,	,
 the	DT
 contracting	NN
-out	NN
+out	RP
 of	IN
 work	NN
 by	IN
@@ -35029,8 +35029,8 @@ the	DT
 December	NNP
 contract	NN
 rose	VBD
-to	IN
-as	RB
+to	TO
+as	IN
 high	JJ
 as	IN
 $	$
@@ -35073,11 +35073,11 @@ prices	NNS
 COTTON	NNP
 :	:
 
-Futures	NNP
+Futures	NNPS
 prices	NNS
 eased	VBD
 ,	,
-more	JJR
+more	RBR
 in	IN
 reaction	NN
 to	IN
@@ -35111,7 +35111,7 @@ at	IN
 cents	NNS
 .	.
 
-Technical	JJ
+Technical	NNP
 considerations	NNS
 following	VBG
 the	DT
@@ -35254,7 +35254,7 @@ added	VBD
 SUGAR	NNP
 :	:
 
-Futures	NNP
+Futures	NNPS
 prices	NNS
 declined	VBD
 .	.
@@ -35283,8 +35283,8 @@ the	DT
 March	NNP
 price	NN
 rose	VBD
-to	IN
-as	RB
+to	TO
+as	IN
 high	JJ
 as	IN
 14.22	CD
@@ -35306,7 +35306,7 @@ back	RP
 A	DT
 price	NN
 -	HYPH
-depressing	JJ
+depressing	VBG
 factor	NN
 ,	,
 one	CD
@@ -35323,7 +35323,7 @@ been	VBN
 expected	VBN
 to	TO
 buy	VB
-around	IN
+around	RP
 200,000	CD
 tons	NNS
 of	IN
@@ -35394,7 +35394,7 @@ stock	NN
 market	NN
 and	CC
 it	PRP
-affected	VBD
+affected	JJ
 sugar	NN
 ,	,
 it	PRP
@@ -35432,7 +35432,7 @@ needs	VBZ
 the	DT
 sugar	NN
 ,	,
-so	IN
+so	RB
 it	PRP
 will	MD
 be	VB
@@ -35761,7 +35761,7 @@ that	IN
 net	JJ
 income	NN
 for	IN
-all	DT
+all	PDT
 of	IN
 1989	CD
 would	MD
@@ -35926,8 +35926,8 @@ doughnut	NN
 shop	NN
 chain	NN
 and	CC
-that	IN
-as	RB
+that	WDT
+as	IN
 of	IN
 the	DT
 close	NN
@@ -36092,7 +36092,7 @@ months	NNS
 for	IN
 broadening	VBG
 its	PRP$
-earning	NN
+earning	VBG
 asset	NN
 base	NN
 and	CC
@@ -36112,7 +36112,7 @@ demand	NN
 for	IN
 new	JJ
 mortgages	NNS
-depressed	VBD
+depressed	VBN
 new	JJ
 loan	NN
 originations	NNS
@@ -36132,7 +36132,7 @@ year	NN
 .	.
 
 In	IN
-savings	NN
+savings	NNS
 activity	NN
 ,	,
 Mr.	NNP
@@ -36283,12 +36283,12 @@ by	IN
 spring	NN
 .	.
 
-Earlier	JJR
+Earlier	RBR
 repairs	NNS
 vented	VBD
 the	DT
-CFCs	NNP
-out	NN
+CFCs	NNS
+out	RP
 of	IN
 the	DT
 home	NN
@@ -36442,7 +36442,7 @@ the	DT
 wells	NNS
 are	VBP
 similar	JJ
-to	IN
+to	TO
 others	NNS
 drilled	VBN
 at	IN
@@ -36465,7 +36465,7 @@ in	IN
 the	DT
 field	NN
 are	VBP
-about	RB
+about	IN
 10	CD
 million	CD
 barrels	NNS
@@ -36615,7 +36615,7 @@ results	NNS
 to	TO
 reduce	VB
 its	PRP$
-reported	JJ
+reported	VBD
 net	JJ
 income	NN
 for	IN
@@ -36778,7 +36778,7 @@ W.	NNP
 Forrest	NNP
 ,	,
 Environmental	NNP
-Systems	NNP
+Systems	NNPS
 president	NN
 and	CC
 chief	JJ
@@ -36816,7 +36816,7 @@ merger	NN
 agreement	NN
 with	IN
 ISI	NNP
-Systems	NNP
+Systems	NNPS
 Inc.	NNP
 under	IN
 which	WDT
@@ -36835,7 +36835,7 @@ a	DT
 share	NN
 ,	,
 or	CC
-about	RB
+about	IN
 $	$
 130	CD
 million	CD
@@ -36855,7 +36855,7 @@ trading	NN
 ,	,
 ISI	NNP
 closed	VBD
-up	IN
+up	RP
 $	$
 3.125	CD
 at	IN
@@ -36958,7 +36958,7 @@ cash	NN
 tender	NN
 offer	NN
 for	IN
-all	DT
+all	PDT
 shares	NNS
 outstanding	JJ
 of	IN
@@ -37167,7 +37167,7 @@ in	IN
 private	JJ
 transactions	NNS
 at	IN
-prevailing	JJ
+prevailing	VBG
 market	NN
 prices	NNS
 .	.
@@ -37219,7 +37219,7 @@ utility	NN
 company	NN
 currently	RB
 has	VBZ
-about	RB
+about	IN
 82.1	CD
 million	CD
 shares	NNS
@@ -37447,7 +37447,7 @@ end	NN
 .	.
 
 The	DT
-Communications	NNP
+Communications	NNPS
 Workers	NNPS
 of	IN
 America	NNP
@@ -37457,7 +37457,7 @@ new	JJ
 regional	JJ
 contract	NN
 and	CC
-all	RB
+all	PDT
 but	CC
 one	CD
 of	IN
@@ -37475,7 +37475,7 @@ CWA	NNP
 New	NNP
 Jersey	NNP
 Commercial	NNP
-local	NN
+local	JJ
 ,	,
 which	WDT
 represents	VBZ
@@ -37493,7 +37493,7 @@ tentative	JJ
 agreement	NN
 .	.
 
-Both	CC
+Both	PDT
 the	DT
 union	NN
 and	CC
@@ -37584,7 +37584,7 @@ company	NN
 last	JJ
 week	NN
 agreed	VBD
-to	IN
+to	TO
 mediation	NN
 .	.
 
@@ -37665,7 +37665,7 @@ a	DT
 calamity	NN
 .	.
 
-Many	JJ
+Many	PDT
 went	VBD
 bargain	NN
 -	HYPH
@@ -37804,7 +37804,7 @@ whose	WP$
 troubles	NNS
 had	VBD
 kicked	VBN
-off	IN
+off	RP
 Friday	NNP
 's	POS
 plunge	NN
@@ -37924,7 +37924,7 @@ stocks	NNS
 lost	VBD
 money	NN
 than	IN
-gained	VBN
+gained	VBD
 .	.
 
 And	CC
@@ -37963,7 +37963,7 @@ Airlines	NNP
 collapsed	VBD
 .	.
 
-Indeed	RB
+Indeed	UH
 ,	,
 the	DT
 Dow	NNP
@@ -37999,7 +37999,7 @@ stock	NN
 exchange	NN
 was	VBD
 hardest	RBS
-hit	VBN
+hit	NN
 of	IN
 the	DT
 major	JJ
@@ -38070,7 +38070,7 @@ fall	NN
 declines	NNS
 .	.
 
-Investors	NNS
+Investors	NNPS
 big	JJ
 and	CC
 small	JJ
@@ -38110,7 +38110,7 @@ What	WP
 's	VBZ
 more	JJR
 ,	,
-such	JJ
+such	PDT
 short	JJ
 -	HYPH
 term	NN
@@ -38263,7 +38263,7 @@ spree	NN
 began	VBD
 the	DT
 day	NN
-off	NN
+off	RP
 by	IN
 relatively	RB
 modest	JJ
@@ -38421,7 +38421,7 @@ that	IN
 a	DT
 buying	NN
 or	CC
-selling	NN
+selling	VBG
 wave	NN
 in	IN
 one	CD
@@ -38434,7 +38434,7 @@ the	DT
 globe	NN
 .	.
 
-So	IN
+So	RB
 investors	NNS
 everywhere	RB
 nervously	RB
@@ -38506,7 +38506,7 @@ drifted	VBD
 lower	JJR
 ,	,
 closing	VBG
-down	IN
+down	RP
 647	CD
 .	.
 
@@ -38566,7 +38566,7 @@ the	DT
 market	NN
 ,	,
 one	CD
-Merrill	NN
+Merrill	NNP
 trader	NN
 says	VBZ
 .	.
@@ -38655,7 +38655,7 @@ chip	NN
 stocks	NNS
 colors	VBZ
 each	DT
-one	NN
+one	CD
 red	NN
 when	WRB
 its	PRP$
@@ -38711,7 +38711,7 @@ chip	NN
 stock	NN
 index	NN
 turned	VBD
-up	RB
+up	RP
 just	RB
 before	IN
 8	CD
@@ -38749,7 +38749,7 @@ as	RB
 expected	VBN
 .	.
 
-Futures	NNP
+Futures	NNPS
 markets	NNS
 in	IN
 Chicago	NNP
@@ -38809,7 +38809,7 @@ a.m.	NN
 ,	,
 it	PRP
 was	VBD
-down	RB
+down	RP
 49	CD
 .	.
 
@@ -38822,7 +38822,7 @@ Dow	NNP
 hit	VBD
 bottom	JJ
 -	HYPH
-down	IN
+down	RP
 63.52	CD
 points	NNS
 ,	,
@@ -38833,7 +38833,7 @@ another	DT
 
 But	CC
 shortly	RB
-before	RB
+before	IN
 then	RB
 ,	,
 some	DT
@@ -38886,7 +38886,7 @@ Price	NNP
 ``	``
 It	PRP
 meant	VBD
-that	DT
+that	IN
 people	NNS
 were	VBD
 n't	RB
@@ -38953,7 +38953,7 @@ stocks	NNS
 on	IN
 the	DT
 Tuesday	NNP
-following	NN
+following	VBG
 Black	NNP
 Monday	NNP
 .	.
@@ -39051,7 +39051,7 @@ buying	NN
 .	.
 ''	''
 
-Major	JJ
+Major	NNP
 blue	JJ
 -	HYPH
 chip	NN
@@ -39156,8 +39156,8 @@ that	IN
 day	NN
 ,	,
 opened	VBD
-yesterday	RB
-late	JJ
+yesterday	NN
+late	RB
 at	IN
 114.5	CD
 ,	,
@@ -39169,7 +39169,7 @@ But	CC
 then	RB
 it	PRP
 suddenly	RB
-burst	VBD
+burst	VBP
 upward	RB
 7.5	CD
 as	IN
@@ -39275,8 +39275,8 @@ rally	NN
 This	DT
 technical	JJ
 strength	NN
-spurred	VBD
-buying	VBG
+spurred	VBN
+buying	NN
 from	IN
 Wall	NNP
 Street	NNP
@@ -39343,7 +39343,7 @@ do	VB
 
 Asked	VBN
 what	WP
-stocks	VBZ
+stocks	NNS
 the	DT
 computer	NN
 bought	VBD
@@ -39519,7 +39519,7 @@ the	DT
 Dow	NNP
 's	POS
 strength	NN
-up	NN
+up	RP
 to	IN
 that	DT
 point	NN
@@ -39546,7 +39546,7 @@ real	JJ
 estate	NN
 magnate	NN
 and	CC
-sometime	JJ
+sometime	RB
 raider	NN
 Donald	NNP
 Trump	NNP
@@ -39593,7 +39593,7 @@ minutes	NNS
 after	IN
 reaching	VBG
 its	PRP$
-high	NN
+high	JJ
 for	IN
 the	DT
 day	NN
@@ -39757,7 +39757,7 @@ manager	NN
 at	IN
 IDS	NNP
 Financial	NNP
-Services	NNP
+Services	NNPS
 in	IN
 Minneapolis	NNP
 ,	,
@@ -39772,7 +39772,7 @@ coaster	NN
 and	CC
 that	WDT
 may	MD
-last	VB
+last	JJ
 .	.
 
 The	DT
@@ -39823,7 +39823,7 @@ a	DT
 share	NN
 ,	,
 or	CC
-about	RB
+about	IN
 $	$
 28.1	CD
 million	CD
@@ -39923,7 +39923,7 @@ Skipper	NNP
 's	POS
 previously	RB
 turned	VBN
-down	IN
+down	RP
 a	DT
 $	$
 10	CD
@@ -39997,7 +39997,7 @@ the	DT
 weeks	NNS
 ended	VBD
 Sept.	NNP
-3	NNP
+3	CD
 ,	,
 Skipper	NNP
 's	POS
@@ -40064,7 +40064,7 @@ at	RB
 least	RBS
 120,000	CD
 demonstrators	NNS
-marched	VBN
+marched	VBD
 through	IN
 the	DT
 southern	JJ
@@ -40117,7 +40117,7 @@ West	JJ
 German	JJ
 newspaper	NN
 reported	VBD
-that	DT
+that	IN
 regional	JJ
 Communist	JJ
 officials	NNS
@@ -40212,7 +40212,7 @@ buying	NN
 of	IN
 goods	NNS
 by	IN
-publishing	NN
+publishing	VBG
 stories	NNS
 about	IN
 impending	JJ
@@ -40254,8 +40254,8 @@ The	DT
 curbs	NNS
 would	MD
 cover	VB
-all	RB
-but	IN
+all	PDT
+but	CC
 a	DT
 small	JJ
 percentage	NN
@@ -40438,7 +40438,7 @@ anti-abortion	JJ
 groups	NNS
 are	VBP
 opposed	VBN
-to	IN
+to	TO
 such	JJ
 research	NN
 ,	,
@@ -40446,7 +40446,7 @@ scientists	NNS
 have	VBP
 said	VBN
 transplanting	VBG
-such	JJ
+such	PDT
 tissue	NN
 could	MD
 be	VB
@@ -40582,7 +40582,7 @@ Korean	JJ
 peninsula	NN
 .	.
 
-Such	JJ
+Such	PDT
 family	NN
 reunions	NNS
 would	MD
@@ -40600,7 +40600,7 @@ the	DT
 North	NNP
 and	CC
 South	NNP
-Korean	NNP
+Korean	JJ
 governments	NNS
 ,	,
 however	RB
@@ -40612,7 +40612,7 @@ the	DT
 exchanges	NNS
 .	.
 
-Freed	VBN
+Freed	NNP
 black	JJ
 nationalists	NNS
 resumed	VBD
@@ -40692,7 +40692,7 @@ performance	NN
 during	IN
 the	DT
 Oct.	NNP
-3	NNP
+3	CD
 failed	VBD
 coup	NN
 in	IN
@@ -40773,8 +40773,8 @@ Norway	NNP
 's	POS
 King	NNP
 Olav	NNP
-V	NNP
-installed	VBD
+V	CD
+installed	VBN
 a	DT
 three	CD
 -	HYPH
@@ -40793,7 +40793,7 @@ year	NN
 old	JJ
 Labor	NN
 regime	NN
-relinquished	VBD
+relinquished	VBN
 power	NN
 .	.
 
@@ -41035,7 +41035,7 @@ retail	JJ
 sales	NNS
 volume	NN
 was	VBD
-down	RB
+down	RP
 0.5	CD
 %	NN
 from	IN
@@ -41068,7 +41068,7 @@ Peabody	NNP
 &	CC
 Co.	NNP
 for	IN
-about	RB
+about	IN
 $	$
 600	CD
 million	CD
@@ -41106,7 +41106,7 @@ April	NNP
 Mr.	NNP
 Farley	NNP
 's	POS
-holding	NN
+holding	VBG
 company	NN
 ,	,
 Farley	NNP
@@ -41126,7 +41126,7 @@ leading	JJ
 shirt	NN
 maker	NN
 and	CC
-one	NN
+one	CD
 of	IN
 West	NNP
 Point	NNP
@@ -41174,7 +41174,7 @@ said	VBD
 the	DT
 agreement	NN
 is	VBZ
-subject	JJ
+subject	NN
 to	IN
 Bidermann	NNP
 's	POS
@@ -41292,7 +41292,7 @@ maker	NN
 that	IN
 he	PRP
 still	RB
-controls	VBZ
+controls	NNS
 and	CC
 serves	VBZ
 as	IN
@@ -41436,7 +41436,7 @@ $	$
 billion	CD
 in	IN
 good	JJ
-will	NN
+will	MD
 realized	VBN
 in	IN
 the	DT
@@ -41515,11 +41515,11 @@ The	DT
 name	NN
 change	NN
 and	CC
-good	JJ
-will	NN
-write	NN
+good	NN
+will	MD
+write	VB
 -	HYPH
-off	NN
+off	RP
 could	MD
 help	VB
 solidify	VB
@@ -41538,7 +41538,7 @@ and	CC
 give	VB
 it	PRP
 a	DT
-more	RBR
+more	JJR
 American	JJ
 image	NN
 as	IN
@@ -41567,7 +41567,7 @@ than	IN
 of	IN
 Blue	NNP
 Arrow	NNP
-compared	VBD
+compared	VBN
 with	IN
 9	CD
 %	NN
@@ -41655,7 +41655,7 @@ The	DT
 proposed	JJ
 changes	NNS
 ``	``
-all	RB
+all	PDT
 make	VB
 a	DT
 lot	NN
@@ -41672,7 +41672,7 @@ added	VBD
 In	IN
 a	DT
 widely	RB
-publicized	JJ
+publicized	VBN
 boardroom	NN
 coup	NN
 ,	,
@@ -41740,7 +41740,7 @@ Arrow	NNP
 tumult	NN
 is	VBZ
 n't	RB
-over	RB
+over	IN
 yet	RB
 ,	,
 as	IN
@@ -41799,8 +41799,8 @@ American	JJ
 accounting	NN
 standards	NNS
 produce	VBP
-higher	RBR
-reported	JJ
+higher	JJR
+reported	VBD
 earnings	NNS
 for	IN
 British	JJ
@@ -41826,7 +41826,7 @@ $	$
 billion	CD
 in	IN
 good	JJ
-will	NN
+will	MD
 arising	VBG
 from	IN
 the	DT
@@ -41865,8 +41865,8 @@ reported	JJ
 earnings	NNS
 .	.
 
-Good	JJ
-will	NN
+Good	NNP
+will	MD
 is	VBZ
 the	DT
 excess	NN
@@ -41874,7 +41874,7 @@ of	IN
 cost	NN
 of	IN
 an	DT
-acquired	JJ
+acquired	VBN
 firm	NN
 ,	,
 operating	VBG
@@ -41959,7 +41959,7 @@ the	DT
 1987	CD
 write	NN
 -	HYPH
-off	NN
+off	RP
 of	IN
 good	JJ
 will	NN
@@ -42002,8 +42002,8 @@ eradicate	VB
 some	DT
 of	IN
 the	DT
-good	JJ
-will	NN
+good	NN
+will	MD
 left	VBN
 on	IN
 Blue	NNP
@@ -42012,7 +42012,7 @@ Arrow	NNP
 U.S.	NNP
 books	NNS
 in	IN
-one	PRP
+one	CD
 fell	VBD
 swoop	NN
 ,	,
@@ -42024,7 +42024,7 @@ how	WRB
 much	JJ
 .	.
 
-People	NNS
+People	NNPS
 close	NN
 to	IN
 Blue	NNP
@@ -42168,7 +42168,7 @@ Sim	NNP
 ,	,
 the	DT
 man	NN
-credited	VBN
+credited	VBD
 with	IN
 transforming	VBG
 Applied	NNP
@@ -42222,7 +42222,7 @@ figures	VBZ
 it	PRP
 will	MD
 be	VB
-easier	RBR
+easier	JJR
 this	DT
 time	NN
 .	.
@@ -42235,7 +42235,7 @@ applauding	VBG
 the	DT
 acquisition	NN
 ,	,
-say	VBP
+say	UH
 Applied	NNP
 's	POS
 chief	JJ
@@ -42407,7 +42407,7 @@ Wis.	NNP
 ,	,
 manufacturer	NN
 went	VBD
-public	JJ
+public	NN
 at	IN
 $	$
 15.75	CD
@@ -42501,7 +42501,7 @@ end	NN
 of	IN
 
 Reaching	VBG
-that	DT
+that	IN
 goal	NN
 ,	,
 says	VBZ
@@ -42555,13 +42555,13 @@ similar	JJ
 ''	''
 to	IN
 the	DT
-one	NN
+one	CD
 he	PRP
 faced	VBD
 when	WRB
 he	PRP
 joined	VBD
-Applied	VBN
+Applied	NNP
 as	IN
 president	NN
 and	CC
@@ -42764,7 +42764,7 @@ seat	NN
 When	WRB
 he	PRP
 came	VBD
-to	IN
+to	TO
 Applied	NNP
 ,	,
 ``	``
@@ -42826,7 +42826,7 @@ an	DT
 offering	NN
 that	WDT
 netted	VBD
-Applied	VBN
+Applied	NNP
 about	IN
 $	$
 12.6	CD
@@ -42899,7 +42899,7 @@ the	DT
 fiscal	JJ
 year	NN
 just	RB
-ended	VBN
+ended	VBD
 ,	,
 up	RB
 from	IN
